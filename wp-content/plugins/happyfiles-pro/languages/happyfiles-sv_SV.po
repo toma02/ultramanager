@@ -1,0 +1,565 @@
+# Copyright (C) 2021 HappyFiles Internationalisation
+# This file is distributed under the same license as the HappyFiles Internationalisation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: HappyFiles Internationalisation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SV\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ../includes/actions.php:66
+msgid "No folder name or term ID provided."
+msgstr "Inget mappnamn eller term-ID angavs."
+
+#: ../includes/data.php:175
+msgid "All Files"
+msgstr "Alla filer"
+
+#: ../includes/data.php:175
+msgid "All %s"
+msgstr "Allt %s"
+
+#: ../includes/data.php:176
+msgid "Files"
+msgstr "Fler"
+
+#: ../includes/data.php:168
+msgid "All Plugins"
+msgstr "Alla plugins"
+
+#: ../includes/data.php:201, ../includes/pro.php:95, ../includes/setup.php:154
+msgid "Uncategorized"
+msgstr "Okategoriserade"
+
+#: ../includes/import.php:143
+msgid "Folders from another media plugin detected to import"
+msgstr "Mappar från ett annat medieplugin som har upptäckts för import"
+
+#: ../includes/import.php:144
+msgid "Import/delete folder data"
+msgstr "Importera/ta bort mappdata"
+
+#: ../includes/import.php:458, ../includes/import.php:574
+msgid "%s folders imported and %s items categorized."
+msgstr "%s mappar som importerats %s objekt kategoriserade."
+
+#: ../includes/import.php:461, ../includes/import.php:577
+msgid "View media library"
+msgstr "Visa mediebibliotek"
+
+#: ../includes/pro.php:47, ../includes/pro.php:48, ../includes/setup.php:62
+msgid "Folder"
+msgstr "Mapp"
+
+#: ../includes/pro.php:49, ../includes/pro.php:51
+msgid "Add new folder"
+msgstr "Lägga till ny mapp"
+
+#: ../includes/pro.php:50
+msgid "Edit folder"
+msgstr "Redigera mapp"
+
+#: ../includes/pro.php:52
+msgid "Search folder"
+msgstr "Sök i mapp"
+
+#: ../includes/pro.php:53
+msgid "Folder not found"
+msgstr "Mappen hittades inte"
+
+#: ../includes/pro.php:54
+msgid "Folder not found in trash"
+msgstr "Mappen hittades inte i papperskorgen"
+
+#: ../includes/pro.php:94
+msgid "All %s folders"
+msgstr "Alla %s mappar"
+
+#: ../includes/settings.php:35
+msgid ""
+"Are you sure you want to delete all your HappyFiles folders, associations, "
+"and settings?"
+msgstr ""
+"Vill du ta bort alla Dina HappyFiles-mappar, associationer och inställningar?"
+
+#: ../includes/settings.php:137
+msgid "No HappyFiles data to delete."
+msgstr "Inga HappyFiles-data att ta bort."
+
+#: ../includes/settings.php:133
+msgid "HappyFiles data has been deleted."
+msgstr "HappyFiles-data har tagits bort."
+
+#: ../includes/settings.php:157, ../includes/admin/settings.php:3
+msgid "Settings"
+msgstr "Inställningar"
+
+#: ../includes/setup.php:60
+msgid ""
+"Click the \"+\" button above to create your first folder. Then start "
+"dragging items into it. To remove an item from a folder drag it into the "
+"\"Uncategorized\" folder."
+msgstr ""
+"Klicka på knappen \"+\" ovan för att skapa din första mapp. Börja sedan dra "
+"in objekt i den. Om du vill ta bort ett objekt från en mapp drar du det till "
+"mappen \"Okategoriserad”."
+
+#: ../includes/setup.php:61
+msgid ""
+"No folders found that match your search criteria. Please try another phrase "
+"or clear your search. Search is case-sensitive."
+msgstr ""
+"Inga mappar hittades som matchar dina sökkriterier. Prova en annan fras "
+"eller rensa sökningen. Sökningen är fallkänslig."
+
+#: ../includes/setup.php:63, ../includes/shortcode.php:95
+msgid "Folders"
+msgstr "Mappar"
+
+#: ../includes/setup.php:64
+msgid "Select"
+msgstr "Välj"
+
+#: ../includes/setup.php:65
+msgid "Create"
+msgstr "Skapa"
+
+#: ../includes/setup.php:66
+msgid "Cancel"
+msgstr "Annullera"
+
+#: ../includes/setup.php:67
+msgid "Rename"
+msgstr "Byt namn"
+
+#: ../includes/setup.php:68
+msgid "Delete"
+msgstr "Ta bort"
+
+#: ../includes/setup.php:69
+msgid "Move"
+msgstr "Flytta"
+
+#: ../includes/setup.php:70
+msgid "Search"
+msgstr "Sök"
+
+#: ../includes/setup.php:71
+msgid "Uploaded"
+msgstr "Uppladdad"
+
+#: ../includes/setup.php:72
+msgid "Sort"
+msgstr "Sortera"
+
+#: ../includes/setup.php:73
+msgid "Expand"
+msgstr "Expandera"
+
+#: ../includes/setup.php:74
+msgid "Collapse"
+msgstr "Fäll ihop"
+
+#: ../includes/setup.php:75
+msgid "Details"
+msgstr "Detaljer"
+
+#: ../includes/setup.php:76
+msgid "Subfolders"
+msgstr "Undermappar"
+
+#: ../includes/setup.php:77, ../includes/shortcode.php:96
+msgid "Hold down CTRL/CMD to select multiple folders."
+msgstr "Håll ned CTRL/CMD för att markera flera mappar."
+
+#: ../includes/setup.php:79
+msgid "Delete folders"
+msgstr "Ta bort mappar"
+
+#: ../includes/setup.php:80
+msgid "Delete folders & subfolders"
+msgstr "Ta bort mappar & undermappar"
+
+#: ../includes/setup.php:81
+msgid ""
+"Please confirm how you'd like to delete the HappyFiles folders listed below. "
+"All items inside those folders are safe & won't be deleted!"
+msgstr ""
+"Bekräfta hur du vill ta bort HappyFiles-mapparna nedan. Alla objekt i dessa "
+"mappar är säkra & kommer inte att raderas!"
+
+#: ../includes/setup.php:82
+msgid "The selected folders have been deleted."
+msgstr "De markerade mapparna har tagits bort."
+
+#: ../includes/setup.php:83
+msgid ""
+"The selected folder no longer exists. We recommend selecting another folder."
+msgstr ""
+"Den markerade mappen finns inte längre. Vi rekommenderar att du väljer en "
+"annan mapp."
+
+#: ../includes/setup.php:86
+msgid "Click to copy"
+msgstr "Klicka här om du vill kopiera"
+
+#: ../includes/setup.php:87
+msgid "Gallery shortcode"
+msgstr "Kortkod för galleri"
+
+#: ../includes/setup.php:88
+msgid "Default"
+msgstr "Standard"
+
+#: ../includes/setup.php:89, ../includes/shortcode.php:91
+msgid "Columns"
+msgstr "Kolumner"
+
+#: ../includes/setup.php:90, ../includes/shortcode.php:92
+msgid "Max items"
+msgstr "Max objekt"
+
+#: ../includes/setup.php:91, ../includes/shortcode.php:93
+msgid "Height"
+msgstr "Höjd"
+
+#: ../includes/setup.php:92, ../includes/shortcode.php:94
+msgid "Spacing"
+msgstr "Avstånd"
+
+#: ../includes/setup.php:93, ../includes/shortcode.php:99
+msgid "Order by"
+msgstr "Beställ efter"
+
+#: ../includes/setup.php:94, ../includes/shortcode.php:100
+msgid "Order"
+msgstr "Beställning"
+
+#: ../includes/setup.php:95, ../includes/shortcode.php:97
+msgid "Image size"
+msgstr "Bildstorlek"
+
+#: ../includes/setup.php:96, ../includes/shortcode.php:98
+msgid "Link to"
+msgstr "Länk till"
+
+#: ../includes/setup.php:97, ../includes/shortcode.php:101
+msgid "Include subfolder"
+msgstr "Inkludera undermapp"
+
+#: ../includes/setup.php:98, ../includes/shortcode.php:102
+msgid "Caption"
+msgstr "Bildtext"
+
+#: ../includes/setup.php:99, ../includes/setup.php:100,
+#: ../includes/setup.php:101, ../includes/setup.php:102,
+#: ../includes/shortcode.php:103, ../includes/shortcode.php:104,
+#: ../includes/shortcode.php:105, ../includes/shortcode.php:106
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../includes/setup.php:100, ../includes/shortcode.php:104
+msgid "Fullscreen"
+msgstr "Helskärm"
+
+#: ../includes/setup.php:101, ../includes/shortcode.php:105
+msgid "Thumbnails"
+msgstr "Miniatyrer"
+
+#: ../includes/setup.php:102, ../includes/shortcode.php:106
+msgid "Zoom"
+msgstr "Zooma"
+
+#: ../includes/setup.php:105
+msgid "Date"
+msgstr "Datum"
+
+#: ../includes/setup.php:106
+msgid "Author"
+msgstr "Författare"
+
+#: ../includes/setup.php:107
+msgid "Name"
+msgstr "Namn"
+
+#: ../includes/setup.php:108
+msgid "Title"
+msgstr "Titel"
+
+#: ../includes/setup.php:109
+msgid "Type"
+msgstr "Typ"
+
+#: ../includes/setup.php:110
+msgid "Modified"
+msgstr "Ändrad"
+
+#: ../includes/setup.php:111
+msgid "Random"
+msgstr "Slumpmässig"
+
+#: ../includes/setup.php:112, ../includes/shortcode.php:141
+msgid "None"
+msgstr "Ingen"
+
+#: ../includes/setup.php:113, ../includes/pro/filesizes.php:27
+msgid "File size"
+msgstr "Filstorlek"
+
+#: ../includes/setup.php:116
+msgid "Descending"
+msgstr "Nedåtgående"
+
+#: ../includes/setup.php:117
+msgid "Ascending"
+msgstr "Uppstigande"
+
+#: ../includes/setup.php:120
+msgid "Attachment"
+msgstr "Bifogad fil"
+
+#: ../includes/setup.php:121
+msgid "Media"
+msgstr "Media"
+
+#: ../includes/setup.php:148
+msgid "Optional: Assign a folder to your uploaded file(s):"
+msgstr "Valfritt: Tilldela en mapp till dina uppladdade filer:"
+
+#: ../includes/shortcode.php:88
+msgid "Gallery"
+msgstr "Galleri"
+
+#: ../includes/shortcode.php:89
+msgid "Display your images in a beautiful gallery."
+msgstr "Visa dina bilder i ett vackert galleri."
+
+#: ../includes/shortcode.php:90
+msgid "Gallery settings"
+msgstr "Inställningar för galleri"
+
+#: ../includes/shortcode.php:132
+msgid "Thumbnail"
+msgstr "Tumnagel"
+
+#: ../includes/shortcode.php:133
+msgid "Medium"
+msgstr "Medium"
+
+#: ../includes/shortcode.php:134
+msgid "Large"
+msgstr "Stor"
+
+#: ../includes/shortcode.php:135
+msgid "Full size"
+msgstr "Full storlek"
+
+#: ../includes/shortcode.php:139
+msgid "Attachment page"
+msgstr "Sida för bifogade filer"
+
+#: ../includes/shortcode.php:140
+msgid "Media file"
+msgstr "Mediefil"
+
+#: ../includes/shortcode.php:330
+msgid "No folder selected."
+msgstr "Ingen mapp har markerats."
+
+#: ../includes/shortcode.php:354
+msgid "The selected folder has no items."
+msgstr "Den markerade mappen har inga objekt."
+
+#: ../includes/user.php:95, ../includes/admin/settings.php:71
+msgid "Folder access"
+msgstr "Mappåtkomst"
+
+#: ../includes/user.php:98, ../includes/admin/settings.php:92
+msgid "View folders"
+msgstr "Visa mappar"
+
+#: ../includes/user.php:99, ../includes/admin/settings.php:91
+msgid "Full access"
+msgstr "Fullständig åtkomst"
+
+#: ../includes/user.php:100, ../includes/admin/settings.php:93
+msgid "No access"
+msgstr "Ingen åtkomst"
+
+#: ../includes/user.php:106, ../includes/pro/settings.php:261
+msgid "SVG support"
+msgstr "STÖD FÖR SVG"
+
+#: ../includes/user.php:110
+msgid "Enable SVG uploads, preview, and sanitization"
+msgstr "Aktivera SVG-uppladdningar, förhandsgranskning och sanering"
+
+#: ../includes/admin/settings.php:6
+msgid "General"
+msgstr "Allmänt"
+
+#: ../includes/admin/settings.php:7
+msgid "Permissions"
+msgstr "Behörigheter"
+
+#: ../includes/admin/settings.php:8, ../includes/admin/settings.php:128
+msgid "Import"
+msgstr "Import"
+
+#: ../includes/admin/settings.php:20, ../includes/admin/settings.php:25
+msgid "Assign multiple folders"
+msgstr "Tilldela flera mappar"
+
+#: ../includes/admin/settings.php:28
+msgid ""
+"When enabled you can assign multiple folders to one item. If disabled an "
+"item can only be assigned to one folder."
+msgstr ""
+"När det är aktiverat kan du tilldela flera mappar till ett objekt. Om "
+"inaktiverat kan ett objekt bara tilldelas en mapp."
+
+#: ../includes/admin/settings.php:34, ../includes/admin/settings.php:39
+msgid "Remove from all folders"
+msgstr "Ta bort från alla mappar"
+
+#: ../includes/admin/settings.php:42
+msgid ""
+"When enabled removing an item from a folder removes it from all other "
+"folders. If disabled the item will only be removed from the open folder."
+msgstr ""
+"När du är aktiverad tar du bort ett objekt från en mapp från alla andra "
+"mappar. Om objektet är inaktiverat tas det bara bort från den öppna mappen."
+
+#: ../includes/admin/settings.php:48, ../includes/admin/settings.php:53
+msgid "Infinite scrolling"
+msgstr "Oändlig rullning"
+
+#: ../includes/admin/settings.php:56
+msgid ""
+"When enabled the media library uses infinite scrolling instead of the new "
+"\"Load more\" button (that was introduces in WordPress 5.8)."
+msgstr ""
+"När det är aktiverat använder mediebiblioteket oändlig rullning istället för "
+"den nya knappen \"Läs in mer\" (som introducerades i WordPress 5.8)."
+
+#: ../includes/admin/settings.php:72
+msgid ""
+"Set folder access level per user role. Set folder access for individual user "
+"on user profile page."
+msgstr ""
+"Ange mappåtkomstnivå per användarroll. Ange mappåtkomst för enskilda "
+"användare på sidan användarprofil."
+
+#: ../includes/admin/settings.php:131
+msgid "No folders found to import."
+msgstr "Det visade sig inte att några mappar kunde importeras."
+
+#: ../includes/admin/settings.php:122
+msgid "%s folders with %s associated items found to import."
+msgstr "%s mappar med %s objekt som hittades för att importera."
+
+#: ../includes/admin/settings.php:129, ../includes/admin/settings.php:144
+msgid "Delete plugin data"
+msgstr "Ta bort plugin-data"
+
+#: ../includes/admin/settings.php:143
+msgid "Save changes"
+msgstr "Spara ändringar"
+
+#: ../includes/pro/settings.php:61
+msgid "License key deletion failed."
+msgstr "Det gick inte att ta bort licensnyckeln."
+
+#: ../includes/pro/settings.php:59
+msgid "License key has been removed."
+msgstr "Licensnyckeln har tagits bort."
+
+#: ../includes/pro/settings.php:123
+msgid "One click updates"
+msgstr "Uppdateringar med ett klick"
+
+#: ../includes/pro/settings.php:139
+msgid ""
+"Paste your license key from your %s in here to enable one-click plugin "
+"updates and notifications."
+msgstr ""
+"Klistra in din licensnyckel från din %s här för att aktivera plugin-"
+"uppdateringar och aviseringar med ett klick."
+
+#: ../includes/pro/settings.php:139
+msgid "HappyFiles account"
+msgstr "HappyFiles-konto"
+
+#: ../includes/pro/settings.php:135
+msgid "Deactivate license"
+msgstr "Inaktivera licens"
+
+#: ../includes/pro/settings.php:156
+msgid "Post Types"
+msgstr "Posttyper"
+
+#: ../includes/pro/settings.php:166
+msgid "Plugins"
+msgstr "Plugins"
+
+#: ../includes/pro/settings.php:199, ../includes/pro/settings.php:209
+msgid "Disable in media library"
+msgstr "Inaktivera i mediebibliotek"
+
+#: ../includes/pro/settings.php:222, ../includes/pro/settings.php:228
+msgid "Sort by file size"
+msgstr "Sortera efter filstorlek"
+
+#: ../includes/pro/settings.php:231
+msgid "When enabled you can sort your attachments by file size."
+msgstr ""
+"När det här alternativet är aktiverat kan du sortera bifogade filer efter "
+"filstorlek."
+
+#: ../includes/pro/settings.php:244
+msgid "Regenerate file sizes"
+msgstr "Återskapa filstorlekar"
+
+#: ../includes/pro/settings.php:263
+msgid ""
+"Enable/disable SVG upload, preview & sanitization per user role. Set SVG "
+"support for individual user on user profile page."
+msgstr ""
+"Aktivera/inaktivera SVG-uppladdning, förhandsgranskning & sanering per "
+"användarroll. Ange SVG-stöd för enskilda användare på användarprofilsidan."
+
+#: ../includes/pro/settings.php:264
+msgid ""
+"Upload SVG files only from trusted sources as they can contain and execute "
+"malicious XML code."
+msgstr ""
+"Ladda bara upp SVG-filer från betrodda källor eftersom de kan innehålla och "
+"köra skadlig XML-kod."
+
+#: ../includes/pro/settings.php:283
+msgid "Disabled"
+msgstr "Avaktiverad"
+
+#: ../includes/pro/settings.php:284
+msgid "Enabled"
+msgstr "Aktiverad"
+
+#: ../includes/pro/svg.php:137
+msgid ""
+"This file couldn't be sanitized for security reasons and wasn't uploaded."
+msgstr ""
+"Den här filen kunde inte saneras av säkerhetsskäl och laddades inte upp."

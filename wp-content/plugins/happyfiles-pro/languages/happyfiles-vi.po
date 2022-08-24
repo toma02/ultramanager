@@ -1,0 +1,688 @@
+# Copyright (C) 2021 HappyFiles Internationalisation
+# This file is distributed under the same license as the HappyFiles Internationalisation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: HappyFiles Internationalisation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Language: vi\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ../includes/actions.php:67
+#, fuzzy
+msgid "No folder name or term ID provided."
+msgstr "Không có tên thư mục hoặc ID thuật ngữ được cung cấp."
+
+#: ../includes/data.php:186
+#, fuzzy
+msgid "All Files"
+msgstr "Tất cả tài liệu"
+
+#: ../includes/data.php:186
+#, fuzzy
+msgid "All %s"
+msgstr "Hiển thị tất cả  %s"
+
+#: ../includes/data.php:187
+#, fuzzy
+msgid "Files"
+msgstr "Tệp tin"
+
+#: ../includes/data.php:179
+#, fuzzy
+msgid "All Plugins"
+msgstr "Tất cả gói mở rộng"
+
+#: ../includes/data.php:212, ../includes/pro.php:95, ../includes/setup.php:154
+#, fuzzy
+msgid "Uncategorized"
+msgstr "Chưa phân loại"
+
+#: ../includes/import.php:143
+#, fuzzy
+msgid "Folders from another media plugin detected to import"
+msgstr "Đã phát hiện thấy các thư mục từ một plugin phương tiện khác để nhập"
+
+#: ../includes/import.php:144
+#, fuzzy
+msgid "Import/delete folder data"
+msgstr "Nhập / xóa dữ liệu thư mục"
+
+#: ../includes/import.php:458, ../includes/import.php:574
+#, fuzzy
+msgid "%s folders imported and %s items categorized."
+msgstr "%s thư mục được nhập và %s mục được phân loại."
+
+#: ../includes/import.php:461, ../includes/import.php:577
+#, fuzzy
+msgid "View media library"
+msgstr "Xem thư viện phương tiện"
+
+#: ../includes/pro.php:47, ../includes/pro.php:48, ../includes/setup.php:62
+#, fuzzy
+msgid "Folder"
+msgstr "Thư mục"
+
+#: ../includes/pro.php:49, ../includes/pro.php:51
+#, fuzzy
+msgid "Add new folder"
+msgstr "Thêm thư mục mới"
+
+#: ../includes/pro.php:50
+#, fuzzy
+msgid "Edit folder"
+msgstr "Thay đổi thư mục"
+
+#: ../includes/pro.php:52
+#, fuzzy
+msgid "Search folder"
+msgstr "Tìm kiếm thư mục"
+
+#: ../includes/pro.php:53
+#, fuzzy
+msgid "Folder not found"
+msgstr "Không tìm thấy thư mục"
+
+#: ../includes/pro.php:54
+#, fuzzy
+msgid "Folder not found in trash"
+msgstr "Không tìm thấy thư mục trong thùng rác"
+
+#: ../includes/pro.php:94
+#, fuzzy
+msgid "All %s folders"
+msgstr "Tất cả %s thư mục"
+
+#: ../includes/settings.php:35
+#, fuzzy
+msgid ""
+"Are you sure you want to delete all your HappyFiles folders, associations, "
+"and settings?"
+msgstr ""
+"Bạn có chắc chắn muốn xóa tất cả các thư mục, liên kết và cài đặt HappyFiles "
+"của mình không?"
+
+#: ../includes/settings.php:137
+#, fuzzy
+msgid "No HappyFiles data to delete."
+msgstr "Không có dữ liệu HappyFiles nào để xóa."
+
+#: ../includes/settings.php:133
+#, fuzzy
+msgid "HappyFiles data has been deleted."
+msgstr "Dữ liệu HappyFiles đã bị xóa."
+
+#: ../includes/settings.php:157, ../includes/admin/settings.php:3
+#, fuzzy
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: ../includes/setup.php:60
+#, fuzzy
+msgid ""
+"Click the \"+\" button above to create your first folder. Then start "
+"dragging items into it. To remove an item from a folder drag it into the "
+"\"Uncategorized\" folder."
+msgstr ""
+"Nhấp vào nút \"+\" ở trên để tạo thư mục đầu tiên của bạn. Sau đó, bắt đầu "
+"kéo các mục vào đó. Để xóa một mục khỏi một thư mục, hãy kéo mục đó vào thư "
+"mục \"Chưa được phân loại\"."
+
+#: ../includes/setup.php:61
+#, fuzzy
+msgid ""
+"No folders found that match your search criteria. Please try another phrase "
+"or clear your search. Search is case-sensitive."
+msgstr ""
+"Không tìm thấy thư mục nào phù hợp với tiêu chí tìm kiếm của bạn. Vui lòng "
+"thử một cụm từ khác hoặc xóa tìm kiếm của bạn. Tìm kiếm phân biệt chữ hoa "
+"chữ thường."
+
+#: ../includes/setup.php:63, ../includes/shortcode.php:95
+#, fuzzy
+msgid "Folders"
+msgstr "Thư mục"
+
+#: ../includes/setup.php:64
+#, fuzzy
+msgid "Select"
+msgstr "Chọn"
+
+#: ../includes/setup.php:65
+#, fuzzy
+msgid "Create"
+msgstr "Tạo"
+
+#: ../includes/setup.php:66
+#, fuzzy
+msgid "Cancel"
+msgstr "Hủy"
+
+#: ../includes/setup.php:67
+#, fuzzy
+msgid "Rename"
+msgstr "Đổi tên"
+
+#: ../includes/setup.php:68
+#, fuzzy
+msgid "Delete"
+msgstr "Xóa"
+
+#: ../includes/setup.php:69
+#, fuzzy
+msgid "Move"
+msgstr "Di chuyển"
+
+#: ../includes/setup.php:70
+#, fuzzy
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: ../includes/setup.php:71
+#, fuzzy
+msgid "Uploaded"
+msgstr "Đã tải lên"
+
+#: ../includes/setup.php:72
+#, fuzzy
+msgid "Sort"
+msgstr "Sắp xếp"
+
+#: ../includes/setup.php:73
+#, fuzzy
+msgid "Expand"
+msgstr "Mở rộng"
+
+#: ../includes/setup.php:74
+#, fuzzy
+msgid "Collapse"
+msgstr "Thu gọn"
+
+#: ../includes/setup.php:75
+#, fuzzy
+msgid "Details"
+msgstr "Chi tiết"
+
+#: ../includes/setup.php:76
+#, fuzzy
+msgid "Subfolders"
+msgstr "Thư mục con"
+
+#: ../includes/setup.php:77, ../includes/shortcode.php:96
+#, fuzzy
+msgid "Hold down CTRL/CMD to select multiple folders."
+msgstr "Nhấn giữ CTRL / CMD để chọn nhiều thư mục."
+
+#: ../includes/setup.php:79
+#, fuzzy
+msgid "Delete folders"
+msgstr "Xóa các thư mục"
+
+#: ../includes/setup.php:80
+#, fuzzy
+msgid "Delete folders & subfolders"
+msgstr "Xóa thư mục và thư mục con"
+
+#: ../includes/setup.php:81
+#, fuzzy
+msgid ""
+"Please confirm how you'd like to delete the HappyFiles folders listed below. "
+"All items inside those folders are safe & won't be deleted!"
+msgstr ""
+"Vui lòng xác nhận cách bạn muốn xóa các thư mục HappyFiles được liệt kê bên "
+"dưới. Tất cả các mục bên trong các thư mục đó đều an toàn và sẽ không bị xóa!"
+
+#: ../includes/setup.php:82
+#, fuzzy
+msgid "The selected folders have been deleted."
+msgstr "Các thư mục được chọn đã bị xóa."
+
+#: ../includes/setup.php:83
+#, fuzzy
+msgid ""
+"The selected folder no longer exists. We recommend selecting another folder."
+msgstr ""
+"Thư mục đã chọn không còn tồn tại. Chúng tôi khuyên bạn nên chọn một thư mục "
+"khác."
+
+#: ../includes/setup.php:86
+#, fuzzy
+msgid "Click to copy"
+msgstr "Bấm để sao chép"
+
+#: ../includes/setup.php:87
+#, fuzzy
+msgid "Gallery shortcode"
+msgstr "Mã ngắn thư viện"
+
+#: ../includes/setup.php:88
+#, fuzzy
+msgid "Default"
+msgstr "Mặc định"
+
+#: ../includes/setup.php:89, ../includes/shortcode.php:91
+#, fuzzy
+msgid "Columns"
+msgstr "Cột"
+
+#: ../includes/setup.php:90, ../includes/shortcode.php:92
+#, fuzzy
+msgid "Max items"
+msgstr "Các mặt hàng tối đa"
+
+#: ../includes/setup.php:91, ../includes/shortcode.php:93
+#, fuzzy
+msgid "Height"
+msgstr "Chiều cao"
+
+#: ../includes/setup.php:92, ../includes/shortcode.php:94
+#, fuzzy
+msgid "Spacing"
+msgstr "Khoảng cách"
+
+#: ../includes/setup.php:93, ../includes/shortcode.php:99
+#, fuzzy
+msgid "Order by"
+msgstr "Sắp xếp theo"
+
+#: ../includes/setup.php:94, ../includes/shortcode.php:100
+#, fuzzy
+msgid "Order"
+msgstr "Đặt hàng"
+
+#: ../includes/setup.php:95, ../includes/shortcode.php:97
+#, fuzzy
+msgid "Image size"
+msgstr "Kích thước hình ảnh"
+
+#: ../includes/setup.php:96, ../includes/shortcode.php:98
+#, fuzzy
+msgid "Link to"
+msgstr "Liên kết đến"
+
+#: ../includes/setup.php:97, ../includes/shortcode.php:101
+#, fuzzy
+msgid "Include subfolder"
+msgstr "Bao gồm thư mục con"
+
+#: ../includes/setup.php:98, ../includes/shortcode.php:102
+#, fuzzy
+msgid "Caption"
+msgstr "Chú thích"
+
+#: ../includes/setup.php:99, ../includes/setup.php:100,
+#: ../includes/setup.php:101, ../includes/setup.php:102,
+#: ../includes/shortcode.php:103, ../includes/shortcode.php:104,
+#: ../includes/shortcode.php:105, ../includes/shortcode.php:106
+#, fuzzy
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../includes/setup.php:100, ../includes/shortcode.php:104
+#, fuzzy
+msgid "Fullscreen"
+msgstr "Toàn màn hình"
+
+#: ../includes/setup.php:101, ../includes/shortcode.php:105
+#, fuzzy
+msgid "Thumbnails"
+msgstr "Ảnh thu nhỏ"
+
+#: ../includes/setup.php:102, ../includes/shortcode.php:106
+#, fuzzy
+msgid "Zoom"
+msgstr "Phóng to"
+
+#: ../includes/setup.php:105
+#, fuzzy
+msgid "Date"
+msgstr "Ngày"
+
+#: ../includes/setup.php:106
+#, fuzzy
+msgid "Author"
+msgstr "Tác giả"
+
+#: ../includes/setup.php:107
+#, fuzzy
+msgid "Name"
+msgstr "Tên"
+
+#: ../includes/setup.php:108
+#, fuzzy
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: ../includes/setup.php:109
+#, fuzzy
+msgid "Type"
+msgstr "Loại"
+
+#: ../includes/setup.php:110
+#, fuzzy
+msgid "Modified"
+msgstr "Sửa đổi"
+
+#: ../includes/setup.php:111
+#, fuzzy
+msgid "Random"
+msgstr "Ngẫu nhiên"
+
+#: ../includes/setup.php:112, ../includes/shortcode.php:141
+#, fuzzy
+msgid "None"
+msgstr "Không"
+
+#: ../includes/setup.php:113, ../includes/pro/filesizes.php:27
+#, fuzzy
+msgid "File size"
+msgstr "Kích thước tập tin"
+
+#: ../includes/setup.php:116
+#, fuzzy
+msgid "Descending"
+msgstr "Giảm dần"
+
+#: ../includes/setup.php:117
+#, fuzzy
+msgid "Ascending"
+msgstr "Tăng dần"
+
+#: ../includes/setup.php:120
+#, fuzzy
+msgid "Attachment"
+msgstr "Tập tin đính kèm"
+
+#: ../includes/setup.php:121
+#, fuzzy
+msgid "Media"
+msgstr "Đa phương tiện"
+
+#: ../includes/setup.php:148
+#, fuzzy
+msgid "Optional: Assign a folder to your uploaded file(s):"
+msgstr "Tùy chọn: Gán một thư mục cho (các) tệp đã tải lên của bạn:"
+
+#: ../includes/shortcode.php:88
+#, fuzzy
+msgid "Gallery"
+msgstr "Bộ sưu tập"
+
+#: ../includes/shortcode.php:89
+#, fuzzy
+msgid "Display your images in a beautiful gallery."
+msgstr "Hiển thị hình ảnh của bạn trong một thư viện đẹp."
+
+#: ../includes/shortcode.php:90
+#, fuzzy
+msgid "Gallery settings"
+msgstr "Cài đặt thư viện"
+
+#: ../includes/shortcode.php:132
+#, fuzzy
+msgid "Thumbnail"
+msgstr "Hình nhỏ"
+
+#: ../includes/shortcode.php:133
+#, fuzzy
+msgid "Medium"
+msgstr "Trung bình"
+
+#: ../includes/shortcode.php:134
+#, fuzzy
+msgid "Large"
+msgstr "Lớn"
+
+#: ../includes/shortcode.php:135
+#, fuzzy
+msgid "Full size"
+msgstr "Kích cỡ đầy đủ"
+
+#: ../includes/shortcode.php:139
+#, fuzzy
+msgid "Attachment page"
+msgstr "Trang đính kèm"
+
+#: ../includes/shortcode.php:140
+#, fuzzy
+msgid "Media file"
+msgstr "Tập tin đa phương tiện"
+
+#: ../includes/shortcode.php:330
+#, fuzzy
+msgid "No folder selected."
+msgstr "Không có thư mục nào được chọn."
+
+#: ../includes/shortcode.php:354
+#, fuzzy
+msgid "The selected folder has no items."
+msgstr "Thư mục đã chọn không có mục nào."
+
+#: ../includes/user.php:95, ../includes/admin/settings.php:71
+#, fuzzy
+msgid "Folder access"
+msgstr "Quyền truy cập thư mục"
+
+#: ../includes/user.php:98, ../includes/admin/settings.php:92
+#, fuzzy
+msgid "View folders"
+msgstr "Xem các thư mục"
+
+#: ../includes/user.php:99, ../includes/admin/settings.php:91
+#, fuzzy
+msgid "Full access"
+msgstr "Toàn quyền truy cập"
+
+#: ../includes/user.php:100, ../includes/admin/settings.php:93
+#, fuzzy
+msgid "No access"
+msgstr "Không truy cập"
+
+#: ../includes/user.php:106, ../includes/pro/settings.php:261
+#, fuzzy
+msgid "SVG support"
+msgstr "Hỗ trợ SVG"
+
+#: ../includes/user.php:110
+#, fuzzy
+msgid "Enable SVG uploads, preview, and sanitization"
+msgstr "Bật tải lên, xem trước và làm sạch SVG"
+
+#: ../includes/admin/settings.php:6
+#, fuzzy
+msgid "General"
+msgstr "Chung"
+
+#: ../includes/admin/settings.php:7
+#, fuzzy
+msgid "Permissions"
+msgstr "Quyền hạn"
+
+#: ../includes/admin/settings.php:8, ../includes/admin/settings.php:128
+#, fuzzy
+msgid "Import"
+msgstr "Nhập"
+
+#: ../includes/admin/settings.php:20, ../includes/admin/settings.php:25
+#, fuzzy
+msgid "Assign multiple folders"
+msgstr "Gán nhiều thư mục"
+
+#: ../includes/admin/settings.php:28
+#, fuzzy
+msgid ""
+"When enabled you can assign multiple folders to one item. If disabled an "
+"item can only be assigned to one folder."
+msgstr ""
+"Khi được bật, bạn có thể gán nhiều thư mục cho một mục. Nếu bị vô hiệu hóa, "
+"một mục chỉ có thể được gán cho một thư mục."
+
+#: ../includes/admin/settings.php:34, ../includes/admin/settings.php:39
+#, fuzzy
+msgid "Remove from all folders"
+msgstr "Xóa khỏi tất cả các thư mục"
+
+#: ../includes/admin/settings.php:42
+#, fuzzy
+msgid ""
+"When enabled removing an item from a folder removes it from all other "
+"folders. If disabled the item will only be removed from the open folder."
+msgstr ""
+"Khi được bật, xóa một mục khỏi một thư mục sẽ xóa nó khỏi tất cả các thư mục "
+"khác. Nếu bị vô hiệu hóa, mục sẽ chỉ bị xóa khỏi thư mục đang mở."
+
+#: ../includes/admin/settings.php:48, ../includes/admin/settings.php:53
+#, fuzzy
+msgid "Infinite scrolling"
+msgstr "Cuộn vô hạn"
+
+#: ../includes/admin/settings.php:56
+#, fuzzy
+msgid ""
+"When enabled the media library uses infinite scrolling instead of the new "
+"\"Load more\" button (that was introduces in WordPress 5.8)."
+msgstr ""
+"Khi được bật, thư viện phương tiện sẽ sử dụng tính năng cuộn vô hạn thay vì "
+"nút \"Tải thêm\" mới (đã được giới thiệu trong WordPress 5.8)."
+
+#: ../includes/admin/settings.php:72
+#, fuzzy
+msgid ""
+"Set folder access level per user role. Set folder access for individual user "
+"on user profile page."
+msgstr ""
+"Đặt cấp độ truy cập thư mục cho mỗi vai trò người dùng. Đặt quyền truy cập "
+"thư mục cho người dùng cá nhân trên trang hồ sơ người dùng."
+
+#: ../includes/admin/settings.php:131
+#, fuzzy
+msgid "No folders found to import."
+msgstr "Không tìm thấy thư mục nào để nhập."
+
+#: ../includes/admin/settings.php:122
+#, fuzzy
+msgid "%s folders with %s associated items found to import."
+msgstr "%s thư mục có %s mục được liên kết được tìm thấy để nhập."
+
+#: ../includes/admin/settings.php:129, ../includes/admin/settings.php:144
+#, fuzzy
+msgid "Delete plugin data"
+msgstr "Xóa dữ liệu plugin"
+
+#: ../includes/admin/settings.php:143
+#, fuzzy
+msgid "Save changes"
+msgstr "Lưu thay đổi"
+
+#: ../includes/pro/settings.php:61
+#, fuzzy
+msgid "License key deletion failed."
+msgstr "Không xóa được khóa cấp phép."
+
+#: ../includes/pro/settings.php:59
+#, fuzzy
+msgid "License key has been removed."
+msgstr "Khóa cấp phép đã bị xóa."
+
+#: ../includes/pro/settings.php:123
+#, fuzzy
+msgid "One click updates"
+msgstr "Cập nhật một cú nhấp chuột"
+
+#: ../includes/pro/settings.php:139
+#, fuzzy
+msgid ""
+"Paste your license key from your %s in here to enable one-click plugin "
+"updates and notifications."
+msgstr ""
+"Dán khóa cấp phép của bạn từ %s của bạn vào đây để kích hoạt cập nhật và "
+"thông báo plugin bằng một cú nhấp chuột."
+
+#: ../includes/pro/settings.php:139
+#, fuzzy
+msgid "HappyFiles account"
+msgstr "Tài khoản HappyFiles"
+
+#: ../includes/pro/settings.php:135
+#, fuzzy
+msgid "Deactivate license"
+msgstr "Hủy kích hoạt giấy phép"
+
+#: ../includes/pro/settings.php:156
+#, fuzzy
+msgid "Post Types"
+msgstr "Các loại bài"
+
+#: ../includes/pro/settings.php:166
+#, fuzzy
+msgid "Plugins"
+msgstr "Plugins"
+
+#: ../includes/pro/settings.php:199, ../includes/pro/settings.php:209
+#, fuzzy
+msgid "Disable in media library"
+msgstr "Tắt trong thư viện phương tiện"
+
+#: ../includes/pro/settings.php:222, ../includes/pro/settings.php:228
+#, fuzzy
+msgid "Sort by file size"
+msgstr "Sắp xếp theo kích thước tệp"
+
+#: ../includes/pro/settings.php:231
+#, fuzzy
+msgid "When enabled you can sort your attachments by file size."
+msgstr ""
+"Khi được bật, bạn có thể sắp xếp các tệp đính kèm của mình theo kích thước "
+"tệp."
+
+#: ../includes/pro/settings.php:244
+#, fuzzy
+msgid "Regenerate file sizes"
+msgstr "Tạo lại kích thước tệp"
+
+#: ../includes/pro/settings.php:263
+#, fuzzy
+msgid ""
+"Enable/disable SVG upload, preview & sanitization per user role. Set SVG "
+"support for individual user on user profile page."
+msgstr ""
+"Bật / tắt tải lên, xem trước và làm sạch SVG cho mỗi vai trò người dùng. Đặt "
+"hỗ trợ SVG cho người dùng cá nhân trên trang hồ sơ người dùng."
+
+#: ../includes/pro/settings.php:264
+#, fuzzy
+msgid ""
+"Upload SVG files only from trusted sources as they can contain and execute "
+"malicious XML code."
+msgstr ""
+"Chỉ tải lên các tệp SVG từ các nguồn đáng tin cậy vì chúng có thể chứa và "
+"thực thi mã XML độc hại."
+
+#: ../includes/pro/settings.php:283
+#, fuzzy
+msgid "Disabled"
+msgstr "Vô hiệu hóa"
+
+#: ../includes/pro/settings.php:284
+#, fuzzy
+msgid "Enabled"
+msgstr "Bật"
+
+#: ../includes/pro/svg.php:137
+#, fuzzy
+msgid ""
+"This file couldn't be sanitized for security reasons and wasn't uploaded."
+msgstr "Không thể làm sạch tệp này vì lý do bảo mật và không được tải lên."

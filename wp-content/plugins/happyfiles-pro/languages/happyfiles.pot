@@ -1,0 +1,566 @@
+# Copyright (C) 2022 HappyFiles Internationalisation
+# This file is distributed under the same license as the HappyFiles Internationalisation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: HappyFiles Internationalisation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/actions.php:67
+msgid "No folder name or term ID provided."
+msgstr ""
+
+#: ../includes/data.php:190, ../includes/admin/settings.php:27
+msgid "All Files"
+msgstr ""
+
+#: ../includes/data.php:190
+msgid "All %s"
+msgstr ""
+
+#: ../includes/data.php:191
+msgid "Files"
+msgstr ""
+
+#: ../includes/data.php:183
+msgid "All Plugins"
+msgstr ""
+
+#: ../includes/data.php:216, ../includes/pro.php:110, ../includes/setup.php:194, ../includes/admin/settings.php:28
+msgid "Uncategorized"
+msgstr ""
+
+#: ../includes/import.php:158
+msgid "Folders from another media plugin detected to import"
+msgstr ""
+
+#: ../includes/import.php:159
+msgid "Import/delete folder data"
+msgstr ""
+
+#: ../includes/import.php:391
+msgid "Nothing to import"
+msgstr ""
+
+#: ../includes/import.php:455
+msgid "%s folders successfully imported."
+msgstr ""
+
+#: ../includes/import.php:553, ../includes/import.php:669
+msgid "%s folders imported and %s items categorized."
+msgstr ""
+
+#: ../includes/import.php:556, ../includes/import.php:672
+msgid "View media library"
+msgstr ""
+
+#: ../includes/pro.php:62, ../includes/pro.php:63, ../includes/setup.php:101
+msgid "Folder"
+msgstr ""
+
+#: ../includes/pro.php:64, ../includes/pro.php:66
+msgid "Add new folder"
+msgstr ""
+
+#: ../includes/pro.php:65
+msgid "Edit folder"
+msgstr ""
+
+#: ../includes/pro.php:67
+msgid "Search folder"
+msgstr ""
+
+#: ../includes/pro.php:68
+msgid "Folder not found"
+msgstr ""
+
+#: ../includes/pro.php:69
+msgid "Folder not found in trash"
+msgstr ""
+
+#: ../includes/pro.php:109
+msgid "All %1$s folders"
+msgstr ""
+
+#: ../includes/settings.php:28, ../includes/settings.php:165, ../includes/admin/settings.php:3
+msgid "Settings"
+msgstr ""
+
+#: ../includes/settings.php:43
+msgid "Are you sure you want to delete all your HappyFiles folders, associations, and settings?"
+msgstr ""
+
+#: ../includes/settings.php:145
+msgid "No HappyFiles data to delete."
+msgstr ""
+
+#: ../includes/settings.php:141
+msgid "HappyFiles data has been deleted."
+msgstr ""
+
+#: ../includes/setup.php:99
+msgid "Click the \"+\" button above to create your first folder. Then start dragging items into it. To remove an item from a folder drag it into the \"Uncategorized\" folder."
+msgstr ""
+
+#: ../includes/setup.php:100
+msgid "No folders found that match your search criteria. Please try another phrase or clear your search. Search is case-sensitive."
+msgstr ""
+
+#: ../includes/setup.php:102, ../includes/shortcode.php:97, ../includes/integrations/bricks-gallery.php:32
+msgid "Folders"
+msgstr ""
+
+#: ../includes/setup.php:103
+msgid "Select"
+msgstr ""
+
+#: ../includes/setup.php:104
+msgid "Create"
+msgstr ""
+
+#: ../includes/setup.php:105
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/setup.php:106
+msgid "Rename"
+msgstr ""
+
+#: ../includes/setup.php:107
+msgid "Delete"
+msgstr ""
+
+#: ../includes/setup.php:108
+msgid "Move"
+msgstr ""
+
+#: ../includes/setup.php:109
+msgid "Search"
+msgstr ""
+
+#: ../includes/setup.php:110
+msgid "Uploaded"
+msgstr ""
+
+#: ../includes/setup.php:111
+msgid "Sort"
+msgstr ""
+
+#: ../includes/setup.php:112
+msgid "Expand"
+msgstr ""
+
+#: ../includes/setup.php:113
+msgid "Collapse"
+msgstr ""
+
+#: ../includes/setup.php:114
+msgid "Details"
+msgstr ""
+
+#: ../includes/setup.php:115
+msgid "Subfolders"
+msgstr ""
+
+#: ../includes/setup.php:116, ../includes/shortcode.php:98
+msgid "Hold down CTRL/CMD to select multiple folders."
+msgstr ""
+
+#: ../includes/setup.php:118
+msgid "Delete folders"
+msgstr ""
+
+#: ../includes/setup.php:119
+msgid "Delete folders & subfolders"
+msgstr ""
+
+#: ../includes/setup.php:120
+msgid "Please confirm how you'd like to delete the HappyFiles folders listed below. All items inside those folders are safe & won't be deleted!"
+msgstr ""
+
+#: ../includes/setup.php:121
+msgid "The selected folders have been deleted."
+msgstr ""
+
+#: ../includes/setup.php:122
+msgid "The selected folder no longer exists. We recommend selecting another folder."
+msgstr ""
+
+#: ../includes/setup.php:125
+msgid "Click to copy"
+msgstr ""
+
+#: ../includes/setup.php:126
+msgid "Gallery shortcode"
+msgstr ""
+
+#: ../includes/setup.php:127
+msgid "Default"
+msgstr ""
+
+#: ../includes/setup.php:128, ../includes/shortcode.php:93, ../includes/integrations/bricks-gallery.php:41
+msgid "Columns"
+msgstr ""
+
+#: ../includes/setup.php:129, ../includes/shortcode.php:94, ../includes/integrations/bricks-gallery.php:51
+msgid "Max items"
+msgstr ""
+
+#: ../includes/setup.php:130, ../includes/shortcode.php:95, ../includes/integrations/bricks-gallery.php:61
+msgid "Height"
+msgstr ""
+
+#: ../includes/setup.php:131, ../includes/shortcode.php:96, ../includes/integrations/bricks-gallery.php:68
+msgid "Spacing"
+msgstr ""
+
+#: ../includes/setup.php:132, ../includes/shortcode.php:101, ../includes/integrations/bricks-gallery.php:75
+msgid "Order by"
+msgstr ""
+
+#: ../includes/setup.php:133, ../includes/shortcode.php:102, ../includes/integrations/bricks-gallery.php:95
+msgid "Order"
+msgstr ""
+
+#: ../includes/setup.php:134, ../includes/shortcode.php:99, ../includes/integrations/bricks-gallery.php:107
+msgid "Image size"
+msgstr ""
+
+#: ../includes/setup.php:135, ../includes/shortcode.php:100, ../includes/integrations/bricks-gallery.php:121
+msgid "Link to"
+msgstr ""
+
+#: ../includes/setup.php:136, ../includes/shortcode.php:103
+msgid "No crop"
+msgstr ""
+
+#: ../includes/setup.php:137, ../includes/shortcode.php:104, ../includes/integrations/bricks-gallery.php:134
+msgid "Include subfolder"
+msgstr ""
+
+#: ../includes/setup.php:138, ../includes/shortcode.php:105, ../includes/integrations/bricks-gallery.php:140
+msgid "Caption"
+msgstr ""
+
+#: ../includes/setup.php:139, ../includes/setup.php:140, ../includes/setup.php:141, ../includes/setup.php:142, ../includes/shortcode.php:106, ../includes/shortcode.php:107, ../includes/shortcode.php:108, ../includes/shortcode.php:109, ../includes/integrations/bricks-gallery.php:146, ../includes/integrations/bricks-gallery.php:152, ../includes/integrations/bricks-gallery.php:159, ../includes/integrations/bricks-gallery.php:166
+msgid "Lightbox"
+msgstr ""
+
+#: ../includes/setup.php:140, ../includes/shortcode.php:107, ../includes/integrations/bricks-gallery.php:152
+msgid "Fullscreen"
+msgstr ""
+
+#: ../includes/setup.php:141, ../includes/shortcode.php:108, ../includes/integrations/bricks-gallery.php:159
+msgid "Thumbnails"
+msgstr ""
+
+#: ../includes/setup.php:142, ../includes/shortcode.php:109, ../includes/integrations/bricks-gallery.php:166
+msgid "Zoom"
+msgstr ""
+
+#: ../includes/setup.php:145
+msgid "Date"
+msgstr ""
+
+#: ../includes/setup.php:146
+msgid "Author"
+msgstr ""
+
+#: ../includes/setup.php:147
+msgid "Name"
+msgstr ""
+
+#: ../includes/setup.php:148
+msgid "Title"
+msgstr ""
+
+#: ../includes/setup.php:149
+msgid "Type"
+msgstr ""
+
+#: ../includes/setup.php:150
+msgid "Modified"
+msgstr ""
+
+#: ../includes/setup.php:151
+msgid "Random"
+msgstr ""
+
+#: ../includes/setup.php:152, ../includes/shortcode.php:144, ../includes/integrations/bricks-gallery.php:36, ../includes/integrations/bricks-gallery.php:126, ../includes/integrations/bricks-gallery.php:129
+msgid "None"
+msgstr ""
+
+#: ../includes/setup.php:153, ../includes/pro/filesizes.php:27
+msgid "File size"
+msgstr ""
+
+#: ../includes/setup.php:156
+msgid "Descending"
+msgstr ""
+
+#: ../includes/setup.php:157
+msgid "Ascending"
+msgstr ""
+
+#: ../includes/setup.php:160
+msgid "Attachment"
+msgstr ""
+
+#: ../includes/setup.php:161
+msgid "Media"
+msgstr ""
+
+#: ../includes/setup.php:188
+msgid "Optional: Assign a folder to your uploaded file(s):"
+msgstr ""
+
+#: ../includes/shortcode.php:90, ../includes/integrations/bricks-gallery.php:14
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/shortcode.php:91
+msgid "Display your images in a beautiful gallery."
+msgstr ""
+
+#: ../includes/shortcode.php:92
+msgid "Gallery settings"
+msgstr ""
+
+#: ../includes/shortcode.php:135, ../includes/integrations/bricks-gallery.php:110
+msgid "Thumbnail"
+msgstr ""
+
+#: ../includes/shortcode.php:136, ../includes/integrations/bricks-gallery.php:111, ../includes/integrations/bricks-gallery.php:116
+msgid "Medium"
+msgstr ""
+
+#: ../includes/shortcode.php:137, ../includes/integrations/bricks-gallery.php:112
+msgid "Large"
+msgstr ""
+
+#: ../includes/shortcode.php:138, ../includes/integrations/bricks-gallery.php:113
+msgid "Full size"
+msgstr ""
+
+#: ../includes/shortcode.php:142, ../includes/integrations/bricks-gallery.php:124
+msgid "Attachment page"
+msgstr ""
+
+#: ../includes/shortcode.php:143, ../includes/integrations/bricks-gallery.php:125
+msgid "Media file"
+msgstr ""
+
+#: ../includes/shortcode.php:343, ../includes/integrations/bricks-gallery.php:178
+msgid "No folder selected."
+msgstr ""
+
+#: ../includes/shortcode.php:367
+msgid "The selected folder has no items."
+msgstr ""
+
+#: ../includes/user.php:110, ../includes/user.php:151, ../includes/admin/settings.php:111
+msgid "Upload to folder"
+msgstr ""
+
+#: ../includes/user.php:114, ../includes/user.php:152, ../includes/admin/settings.php:109
+msgid "Full access"
+msgstr ""
+
+#: ../includes/user.php:118, ../includes/user.php:153, ../includes/admin/settings.php:112
+msgid "No access"
+msgstr ""
+
+#: ../includes/user.php:122, ../includes/user.php:150, ../includes/admin/settings.php:110
+msgid "View folders"
+msgstr ""
+
+#: ../includes/user.php:139, ../includes/user.php:163, ../includes/pro/settings.php:322
+msgid "Enabled"
+msgstr ""
+
+#: ../includes/user.php:139, ../includes/user.php:164, ../includes/pro/settings.php:321
+msgid "Disabled"
+msgstr ""
+
+#: ../includes/user.php:146, ../includes/admin/settings.php:89
+msgid "Folder access"
+msgstr ""
+
+#: ../includes/user.php:149, ../includes/user.php:162
+msgid "Inherit"
+msgstr ""
+
+#: ../includes/user.php:159, ../includes/pro/settings.php:298
+msgid "SVG support"
+msgstr ""
+
+#: ../includes/admin/settings.php:6
+msgid "General"
+msgstr ""
+
+#: ../includes/admin/settings.php:7
+msgid "Permissions"
+msgstr ""
+
+#: ../includes/admin/settings.php:8, ../includes/admin/settings.php:178, ../includes/admin/settings.php:142
+msgid "Import"
+msgstr ""
+
+#: ../includes/admin/settings.php:8, ../includes/admin/settings.php:144
+msgid "Export"
+msgstr ""
+
+#: ../includes/admin/settings.php:23
+msgid "Default open folder"
+msgstr ""
+
+#: ../includes/admin/settings.php:29
+msgid "Last opened folder"
+msgstr ""
+
+#: ../includes/admin/settings.php:32
+msgid "Set folder you want to open on page load."
+msgstr ""
+
+#: ../includes/admin/settings.php:38, ../includes/admin/settings.php:43
+msgid "Assign multiple folders"
+msgstr ""
+
+#: ../includes/admin/settings.php:46
+msgid "When enabled you can assign multiple folders to one item. If disabled an item can only be assigned to one folder."
+msgstr ""
+
+#: ../includes/admin/settings.php:52, ../includes/admin/settings.php:57
+msgid "Remove from all folders"
+msgstr ""
+
+#: ../includes/admin/settings.php:60
+msgid "When enabled removing an item from a folder removes it from all other folders. If disabled the item will only be removed from the open folder."
+msgstr ""
+
+#: ../includes/admin/settings.php:66, ../includes/admin/settings.php:71
+msgid "Infinite scrolling"
+msgstr ""
+
+#: ../includes/admin/settings.php:74
+msgid "When enabled the media library uses infinite scrolling instead of the new \"Load more\" button (that was introduces in WordPress 5.8)."
+msgstr ""
+
+#: ../includes/admin/settings.php:90
+msgid "Set folder access level per user role. Set folder access for individual user on user profile page."
+msgstr ""
+
+#: ../includes/admin/settings.php:181
+msgid "No folders found to import."
+msgstr ""
+
+#: ../includes/admin/settings.php:172
+msgid "%s folders with %s associated items found to import."
+msgstr ""
+
+#: ../includes/admin/settings.php:179, ../includes/admin/settings.php:195
+msgid "Delete plugin data"
+msgstr ""
+
+#: ../includes/admin/settings.php:164
+msgid "Export your HappyFiles folder structure to import & use it in another installation."
+msgstr ""
+
+#: ../includes/admin/settings.php:194
+msgid "Save changes"
+msgstr ""
+
+#: ../includes/pro/quick-edit.php:87
+msgid "Select featured image"
+msgstr ""
+
+#: ../includes/pro/quick-edit.php:88
+msgid "Remove featured image"
+msgstr ""
+
+#: ../includes/pro/settings.php:63
+msgid "License key deletion failed."
+msgstr ""
+
+#: ../includes/pro/settings.php:61
+msgid "License key has been removed."
+msgstr ""
+
+#: ../includes/pro/settings.php:133
+msgid "One click updates"
+msgstr ""
+
+#: ../includes/pro/settings.php:149
+msgid "Paste your license key from your %s in here to enable one-click plugin updates and notifications."
+msgstr ""
+
+#: ../includes/pro/settings.php:149
+msgid "HappyFiles account"
+msgstr ""
+
+#: ../includes/pro/settings.php:145
+msgid "Deactivate license"
+msgstr ""
+
+#: ../includes/pro/settings.php:166
+msgid "Post Types"
+msgstr ""
+
+#: ../includes/pro/settings.php:176
+msgid "Plugins"
+msgstr ""
+
+#: ../includes/pro/settings.php:209, ../includes/pro/settings.php:219
+msgid "Disable in media library"
+msgstr ""
+
+#: ../includes/pro/settings.php:232, ../includes/pro/settings.php:238
+msgid "Sort by file size"
+msgstr ""
+
+#: ../includes/pro/settings.php:241
+msgid "When enabled you can sort your attachments by file size."
+msgstr ""
+
+#: ../includes/pro/settings.php:254
+msgid "Regenerate file sizes"
+msgstr ""
+
+#: ../includes/pro/settings.php:269
+msgid "Featured image"
+msgstr ""
+
+#: ../includes/pro/settings.php:275
+msgid "Set featured image via \"Quick edit\""
+msgstr ""
+
+#: ../includes/pro/settings.php:283
+msgid "Show featured image preview column"
+msgstr ""
+
+#: ../includes/pro/settings.php:300
+msgid "Enable/disable SVG upload, preview & sanitization per user role. Set SVG support for individual user on user profile page."
+msgstr ""
+
+#: ../includes/pro/settings.php:301
+msgid "Upload SVG files only from trusted sources as they can contain and execute malicious XML code."
+msgstr ""
+
+#: ../includes/pro/settings.php:332, ../includes/pro/settings.php:343
+msgid "Disable SVG sanitization"
+msgstr ""
+
+#: ../includes/pro/settings.php:347
+msgid "Disable built-in SVG sanitization if you experience issues when uploading SVG files."
+msgstr ""
+
+#: ../includes/pro/svg.php:140
+msgid "This file couldn't be sanitized for security reasons and wasn't uploaded."
+msgstr ""

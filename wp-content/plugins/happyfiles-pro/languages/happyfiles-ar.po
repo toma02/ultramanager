@@ -1,0 +1,564 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HappyFiles Internationalisation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-12-23 10:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_AU\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.3\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ../includes/actions.php:66
+msgid "No folder name or term ID provided."
+msgstr "لم يتم توفير اسم مجلد أو معرف مصطلح."
+
+#: ../includes/data.php:175
+msgid "All Files"
+msgstr "كل الملفات"
+
+#: ../includes/data.php:175
+msgid "All %s"
+msgstr "كل %s"
+
+#: ../includes/data.php:176
+msgid "Files"
+msgstr "الملفات"
+
+#: ../includes/data.php:168
+msgid "All Plugins"
+msgstr "جميع الاضافات"
+
+#: ../includes/data.php:201, ../includes/pro.php:95, ../includes/setup.php:154
+msgid "Uncategorized"
+msgstr "غير مصنف"
+
+#: ../includes/import.php:143
+msgid "Folders from another media plugin detected to import"
+msgstr "تم اكتشاف استيراد مجلدات من مكون إضافي للوسائط"
+
+#: ../includes/import.php:144
+msgid "Import/delete folder data"
+msgstr "استيراد / حذف بيانات المجلد"
+
+#: ../includes/import.php:458, ../includes/import.php:574
+msgid "%s folders imported and %s items categorized."
+msgstr "تم استيراد %s مجلد و %s عنصر مصنف."
+
+#: ../includes/import.php:461, ../includes/import.php:577
+msgid "View media library"
+msgstr "عرض مكتبة الوسائط"
+
+#: ../includes/pro.php:47, ../includes/pro.php:48, ../includes/setup.php:62
+msgid "Folder"
+msgstr "المجلد"
+
+#: ../includes/pro.php:49, ../includes/pro.php:51
+msgid "Add new folder"
+msgstr "أضف مجلدًا جديدًا"
+
+#: ../includes/pro.php:50
+msgid "Edit folder"
+msgstr "تحرير المجلد"
+
+#: ../includes/pro.php:52
+msgid "Search folder"
+msgstr "مجلد البحث"
+
+#: ../includes/pro.php:53
+msgid "Folder not found"
+msgstr "المجلد غير موجود"
+
+#: ../includes/pro.php:54
+msgid "Folder not found in trash"
+msgstr "لم يتم العثور على المجلد في سلة المهملات"
+
+#: ../includes/pro.php:94
+msgid "All %s folders"
+msgstr "جميع المجلدات البالغ عددها %s"
+
+#: ../includes/settings.php:35
+msgid ""
+"Are you sure you want to delete all your HappyFiles folders, associations, "
+"and settings?"
+msgstr ""
+"هل أنت متأكد من أنك تريد حذف جميع مجلدات HappyFiles والارتباطات والإعدادات "
+"الخاصة بك؟"
+
+#: ../includes/settings.php:137
+msgid "No HappyFiles data to delete."
+msgstr "لا توجد بيانات HappyFiles يمكن حذفها."
+
+#: ../includes/settings.php:133
+msgid "HappyFiles data has been deleted."
+msgstr "تم حذف بيانات HappyFiles."
+
+#: ../includes/settings.php:157, ../includes/admin/settings.php:3
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: ../includes/setup.php:60
+msgid ""
+"Click the \"+\" button above to create your first folder. Then start "
+"dragging items into it. To remove an item from a folder drag it into the "
+"\"Uncategorized\" folder."
+msgstr ""
+"انقر فوق الزر \"+\" أعلاه لإنشاء مجلدك الأول. ثم ابدأ في سحب العناصر إليه. "
+"لإزالة عنصر من مجلد ، اسحبه إلى مجلد \"Uncategorized\"."
+
+#: ../includes/setup.php:61
+msgid ""
+"No folders found that match your search criteria. Please try another phrase "
+"or clear your search. Search is case-sensitive."
+msgstr ""
+"لم يتم العثور على مجلدات تطابق معايير البحث الخاصة بك. يرجى محاولة عبارة "
+"أخرى أو مسح البحث الخاص بك. البحث حساس لحالة الأحرف."
+
+#: ../includes/setup.php:63, ../includes/shortcode.php:95
+msgid "Folders"
+msgstr "المجلدات"
+
+#: ../includes/setup.php:64
+msgid "Select"
+msgstr "تحديد"
+
+#: ../includes/setup.php:65
+msgid "Create"
+msgstr "إنشاء"
+
+#: ../includes/setup.php:66
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: ../includes/setup.php:67
+msgid "Rename"
+msgstr "إعادة تسمية"
+
+#: ../includes/setup.php:68
+msgid "Delete"
+msgstr "حذف"
+
+#: ../includes/setup.php:69
+msgid "Move"
+msgstr "نقل"
+
+#: ../includes/setup.php:70
+msgid "Search"
+msgstr "بحث"
+
+#: ../includes/setup.php:71
+msgid "Uploaded"
+msgstr "تم الرفع بنجاح "
+
+#: ../includes/setup.php:72
+msgid "Sort"
+msgstr "فرز"
+
+#: ../includes/setup.php:73
+msgid "Expand"
+msgstr "توسيع"
+
+#: ../includes/setup.php:74
+msgid "Collapse"
+msgstr "طي"
+
+#: ../includes/setup.php:75
+msgid "Details"
+msgstr "تفاصيل"
+
+#: ../includes/setup.php:76
+msgid "Subfolders"
+msgstr "الألبومات الفرعية"
+
+#: ../includes/setup.php:77, ../includes/shortcode.php:96
+msgid "Hold down CTRL/CMD to select multiple folders."
+msgstr "اضغط باستمرار على CTRL / CMD لتحديد عدة مجلدات."
+
+#: ../includes/setup.php:79
+msgid "Delete folders"
+msgstr "احذف المجلدات"
+
+#: ../includes/setup.php:80
+msgid "Delete folders & subfolders"
+msgstr "حذف المجلدات والمجلدات الفرعية"
+
+#: ../includes/setup.php:81
+msgid ""
+"Please confirm how you'd like to delete the HappyFiles folders listed below. "
+"All items inside those folders are safe & won't be deleted!"
+msgstr ""
+"يرجى تأكيد الطريقة التي تريد بها حذف مجلدات HappyFiles المدرجة أدناه. جميع "
+"العناصر الموجودة داخل هذه المجلدات آمنة ولن يتم حذفها!"
+
+#: ../includes/setup.php:82
+msgid "The selected folders have been deleted."
+msgstr "تم حذف المجلدات المحددة."
+
+#: ../includes/setup.php:83
+msgid ""
+"The selected folder no longer exists. We recommend selecting another folder."
+msgstr "لم يعد المجلد المحدد موجودًا. نوصي باختيار مجلد آخر."
+
+#: ../includes/setup.php:86
+msgid "Click to copy"
+msgstr "انقر للنسخ"
+
+#: ../includes/setup.php:87
+msgid "Gallery shortcode"
+msgstr "الرمز المختصر للمعرض"
+
+#: ../includes/setup.php:88
+msgid "Default"
+msgstr "افتراضي"
+
+#: ../includes/setup.php:89, ../includes/shortcode.php:91
+msgid "Columns"
+msgstr "اعمدة"
+
+#: ../includes/setup.php:90, ../includes/shortcode.php:92
+msgid "Max items"
+msgstr "ماكس البنود"
+
+#: ../includes/setup.php:91, ../includes/shortcode.php:93
+msgid "Height"
+msgstr "الارتفاع"
+
+#: ../includes/setup.php:92, ../includes/shortcode.php:94
+msgid "Spacing"
+msgstr "تباعد"
+
+#: ../includes/setup.php:93, ../includes/shortcode.php:99
+msgid "Order by"
+msgstr "ترتيب حسب"
+
+#: ../includes/setup.php:94, ../includes/shortcode.php:100
+msgid "Order"
+msgstr "طلب"
+
+#: ../includes/setup.php:95, ../includes/shortcode.php:97
+msgid "Image size"
+msgstr "حجم الصورة"
+
+#: ../includes/setup.php:96, ../includes/shortcode.php:98
+msgid "Link to"
+msgstr "رابط إلى"
+
+#: ../includes/setup.php:97, ../includes/shortcode.php:101
+msgid "Include subfolder"
+msgstr "تضمين مجلد فرعي"
+
+#: ../includes/setup.php:98, ../includes/shortcode.php:102
+msgid "Caption"
+msgstr "شرح"
+
+#: ../includes/setup.php:99, ../includes/setup.php:100,
+#: ../includes/setup.php:101, ../includes/setup.php:102,
+#: ../includes/shortcode.php:103, ../includes/shortcode.php:104,
+#: ../includes/shortcode.php:105, ../includes/shortcode.php:106
+msgid "Lightbox"
+msgstr "صندوق مضيء"
+
+#: ../includes/setup.php:100, ../includes/shortcode.php:104
+msgid "Fullscreen"
+msgstr "شاشة كاملة"
+
+#: ../includes/setup.php:101, ../includes/shortcode.php:105
+msgid "Thumbnails"
+msgstr "الصور المصغرة"
+
+#: ../includes/setup.php:102, ../includes/shortcode.php:106
+msgid "Zoom"
+msgstr "تكبير"
+
+#: ../includes/setup.php:105
+msgid "Date"
+msgstr "التاريخ"
+
+#: ../includes/setup.php:106
+msgid "Author"
+msgstr "الكاتب"
+
+#: ../includes/setup.php:107
+msgid "Name"
+msgstr "الاسم"
+
+#: ../includes/setup.php:108
+msgid "Title"
+msgstr "العنوان"
+
+#: ../includes/setup.php:109
+msgid "Type"
+msgstr "النوع"
+
+#: ../includes/setup.php:110
+msgid "Modified"
+msgstr "تم التعديل"
+
+#: ../includes/setup.php:111
+msgid "Random"
+msgstr "عشوائي"
+
+#: ../includes/setup.php:112, ../includes/shortcode.php:141
+msgid "None"
+msgstr "لا شيء"
+
+#: ../includes/setup.php:113, ../includes/pro/filesizes.php:27
+msgid "File size"
+msgstr "حجم الملف"
+
+#: ../includes/setup.php:116
+msgid "Descending"
+msgstr "تنازلي"
+
+#: ../includes/setup.php:117
+msgid "Ascending"
+msgstr "تصاعدي"
+
+#: ../includes/setup.php:120
+msgid "Attachment"
+msgstr "المرفق"
+
+#: ../includes/setup.php:121
+msgid "Media"
+msgstr "الوسائط"
+
+#: ../includes/setup.php:148
+msgid "Optional: Assign a folder to your uploaded file(s):"
+msgstr "اختياري: قم بتعيين مجلد للملف (الملفات) التي تم تحميلها:"
+
+#: ../includes/shortcode.php:88
+msgid "Gallery"
+msgstr "المعرض"
+
+#: ../includes/shortcode.php:89
+msgid "Display your images in a beautiful gallery."
+msgstr "اعرض صورك في معرض جميل."
+
+#: ../includes/shortcode.php:90
+msgid "Gallery settings"
+msgstr "إعدادات المعرض"
+
+#: ../includes/shortcode.php:132
+msgid "Thumbnail"
+msgstr "صورة مصغرة"
+
+#: ../includes/shortcode.php:133
+msgid "Medium"
+msgstr "متوسط"
+
+#: ../includes/shortcode.php:134
+msgid "Large"
+msgstr "كبير"
+
+#: ../includes/shortcode.php:135
+msgid "Full size"
+msgstr "الحجم الكامل"
+
+#: ../includes/shortcode.php:139
+msgid "Attachment page"
+msgstr "الصفحة المرفقة"
+
+#: ../includes/shortcode.php:140
+msgid "Media file"
+msgstr "ملف وسائط"
+
+#: ../includes/shortcode.php:330
+msgid "No folder selected."
+msgstr "لم يتم تحديد مجلد."
+
+#: ../includes/shortcode.php:354
+msgid "The selected folder has no items."
+msgstr "لا يحتوي المجلد المحدد على عناصر."
+
+#: ../includes/user.php:95, ../includes/admin/settings.php:71
+msgid "Folder access"
+msgstr "الوصول إلى المجلد"
+
+#: ../includes/user.php:98, ../includes/admin/settings.php:92
+msgid "View folders"
+msgstr "اعرض المجلدات"
+
+#: ../includes/user.php:99, ../includes/admin/settings.php:91
+msgid "Full access"
+msgstr "صلاحية كاملة"
+
+#: ../includes/user.php:100, ../includes/admin/settings.php:93
+msgid "No access"
+msgstr "لا يوجد صلاحية"
+
+#: ../includes/user.php:106, ../includes/pro/settings.php:261
+msgid "SVG support"
+msgstr "دعم SVG"
+
+#: ../includes/user.php:110
+msgid "Enable SVG uploads, preview, and sanitization"
+msgstr "قم بتمكين تحميلات SVG ومعاينتها وتعقيمها"
+
+#: ../includes/admin/settings.php:6
+msgid "General"
+msgstr "عام"
+
+#: ../includes/admin/settings.php:7
+msgid "Permissions"
+msgstr "الصلاحيات"
+
+#: ../includes/admin/settings.php:8, ../includes/admin/settings.php:128
+msgid "Import"
+msgstr "استيراد"
+
+#: ../includes/admin/settings.php:20, ../includes/admin/settings.php:25
+msgid "Assign multiple folders"
+msgstr "تعيين مجلدات متعددة"
+
+#: ../includes/admin/settings.php:28
+msgid ""
+"When enabled you can assign multiple folders to one item. If disabled an "
+"item can only be assigned to one folder."
+msgstr ""
+"عند التمكين ، يمكنك تعيين مجلدات متعددة لعنصر واحد. إذا تم تعطيل العنصر ، "
+"فلا يمكن تعيينه إلا لمجلد واحد."
+
+#: ../includes/admin/settings.php:34, ../includes/admin/settings.php:39
+msgid "Remove from all folders"
+msgstr "إزالة من كافة المجلدات"
+
+#: ../includes/admin/settings.php:42
+msgid ""
+"When enabled removing an item from a folder removes it from all other "
+"folders. If disabled the item will only be removed from the open folder."
+msgstr ""
+"عند التمكين ، في حالة حذف عنصر من مجلد يتم حذفه من جميع المجلدات الأخرى. إذا "
+"تم تعطيله ، فستتم إزالة العنصر من المجلد المفتوح فقط."
+
+#: ../includes/admin/settings.php:48, ../includes/admin/settings.php:53
+msgid "Infinite scrolling"
+msgstr "التمرير اللانهائي"
+
+#: ../includes/admin/settings.php:56
+msgid ""
+"When enabled the media library uses infinite scrolling instead of the new "
+"\"Load more\" button (that was introduces in WordPress 5.8)."
+msgstr ""
+"عند التمكين ، تستخدم مكتبة الوسائط التمرير اللانهائي بدلاً من الزر الجديد "
+"\"تحميل المزيد\" (الذي تم تقديمه في WordPress 5.8)."
+
+#: ../includes/admin/settings.php:72
+msgid ""
+"Set folder access level per user role. Set folder access for individual user "
+"on user profile page."
+msgstr ""
+"تعيين مستوى الوصول إلى المجلد لكل دور مستخدم. تعيين الوصول إلى المجلد "
+"للمستخدم الفردي على صفحة ملف تعريف المستخدم."
+
+#: ../includes/admin/settings.php:131
+msgid "No folders found to import."
+msgstr "لم يتم العثور على مجلدات للاستيراد."
+
+#: ../includes/admin/settings.php:122
+msgid "%s folders with %s associated items found to import."
+msgstr ""
+"تم العثور على %s من المجلدات التي تحتوي على %s من العناصر المرتبطة "
+"لاستيرادها."
+
+#: ../includes/admin/settings.php:129, ../includes/admin/settings.php:144
+msgid "Delete plugin data"
+msgstr "حذف بيانات البرنامج المساعد"
+
+#: ../includes/admin/settings.php:143
+msgid "Save changes"
+msgstr "حفظ التغييرات"
+
+#: ../includes/pro/settings.php:61
+msgid "License key deletion failed."
+msgstr "فشل حذف مفتاح الترخيص."
+
+#: ../includes/pro/settings.php:59
+msgid "License key has been removed."
+msgstr "تمت إزالة مفتاح الترخيص."
+
+#: ../includes/pro/settings.php:123
+msgid "One click updates"
+msgstr "التحديثات بنقرة واحدة"
+
+#: ../includes/pro/settings.php:139
+msgid ""
+"Paste your license key from your %s in here to enable one-click plugin "
+"updates and notifications."
+msgstr ""
+"الصق مفتاح الترخيص من %s هنا لتمكين تحديثات وإشعارات المكون الإضافي بنقرة "
+"واحدة."
+
+#: ../includes/pro/settings.php:139
+msgid "HappyFiles account"
+msgstr "حساب HappyFiles"
+
+#: ../includes/pro/settings.php:135
+msgid "Deactivate license"
+msgstr "إلغاء تنشيط الترخيص"
+
+#: ../includes/pro/settings.php:156
+msgid "Post Types"
+msgstr "أنواع المنشور"
+
+#: ../includes/pro/settings.php:166
+msgid "Plugins"
+msgstr "الإضافات"
+
+#: ../includes/pro/settings.php:199, ../includes/pro/settings.php:209
+msgid "Disable in media library"
+msgstr "تعطيل في مكتبة الوسائط"
+
+#: ../includes/pro/settings.php:222, ../includes/pro/settings.php:228
+msgid "Sort by file size"
+msgstr "فرز حسب حجم الملف"
+
+#: ../includes/pro/settings.php:231
+msgid "When enabled you can sort your attachments by file size."
+msgstr "عند التمكين ، يمكنك فرز المرفقات حسب حجم الملف."
+
+#: ../includes/pro/settings.php:244
+msgid "Regenerate file sizes"
+msgstr "إعادة إنشاء أحجام الملفات"
+
+#: ../includes/pro/settings.php:263
+msgid ""
+"Enable/disable SVG upload, preview & sanitization per user role. Set SVG "
+"support for individual user on user profile page."
+msgstr ""
+"تمكين / تعطيل تحميل ومعاينة SVG لكل مستخدم حسب الدور. قم بتعيين دعم SVG "
+"للمستخدم الفردي على صفحة ملف تعريف المستخدم."
+
+#: ../includes/pro/settings.php:264
+msgid ""
+"Upload SVG files only from trusted sources as they can contain and execute "
+"malicious XML code."
+msgstr ""
+"قم بتحميل ملفات SVG من مصادر موثوقة فقط لأنها يمكن أن تحتوي على تعليمات XML "
+"ضارة وتنفيذها."
+
+#: ../includes/pro/settings.php:283
+msgid "Disabled"
+msgstr "معطل"
+
+#: ../includes/pro/settings.php:284
+msgid "Enabled"
+msgstr "تمكين"
+
+#: ../includes/pro/svg.php:137
+msgid ""
+"This file couldn't be sanitized for security reasons and wasn't uploaded."
+msgstr "تعذر تعقيم هذا الملف لأسباب أمنية ولم يتم تحميله."

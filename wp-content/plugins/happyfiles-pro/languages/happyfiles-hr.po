@@ -1,0 +1,638 @@
+# Copyright (C) 2021 HappyFiles Internationalisation
+# This file is distributed under the same license as the HappyFiles Internationalisation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: HappyFiles Internationalisation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Language: hr\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ../includes/actions.php:66
+#, fuzzy
+msgid "No folder name or term ID provided."
+msgstr "Nije naveden naziv mape ili ID pojma."
+
+#: ../includes/data.php:175
+msgid "All Files"
+msgstr "Sve Datoteke"
+
+#: ../includes/data.php:175
+msgid "All %s"
+msgstr "Svi %s"
+
+#: ../includes/data.php:176
+msgid "Files"
+msgstr "Datoteke"
+
+#: ../includes/data.php:168
+#, fuzzy
+msgid "All Plugins"
+msgstr "Svi dodaci"
+
+#: ../includes/data.php:201, ../includes/pro.php:95, ../includes/setup.php:154
+#, fuzzy
+msgid "Uncategorized"
+msgstr "Nekategorizirano"
+
+#: ../includes/import.php:143
+#, fuzzy
+msgid "Folders from another media plugin detected to import"
+msgstr "Mape s drugog dodatka za medije otkrivene su za uvoz"
+
+#: ../includes/import.php:144
+#, fuzzy
+msgid "Import/delete folder data"
+msgstr "Uvoz/brisanje podataka mape"
+
+#: ../includes/import.php:458, ../includes/import.php:574
+#, fuzzy
+msgid "%s folders imported and %s items categorized."
+msgstr "Uvezene mape: %s, a stavke kategorizirane: %s."
+
+#: ../includes/import.php:461, ../includes/import.php:577
+#, fuzzy
+msgid "View media library"
+msgstr "Prikaz biblioteke medija"
+
+#: ../includes/pro.php:47, ../includes/pro.php:48, ../includes/setup.php:62
+#, fuzzy
+msgid "Folder"
+msgstr "Mapa"
+
+#: ../includes/pro.php:49, ../includes/pro.php:51
+#, fuzzy
+msgid "Add new folder"
+msgstr "Dodajte novu mapu"
+
+#: ../includes/pro.php:50
+#, fuzzy
+msgid "Edit folder"
+msgstr "Uređivanje mape"
+
+#: ../includes/pro.php:52
+#, fuzzy
+msgid "Search folder"
+msgstr "Mapa za pretraživanje"
+
+#: ../includes/pro.php:53
+#, fuzzy
+msgid "Folder not found"
+msgstr "Mapa nije pronađena"
+
+#: ../includes/pro.php:54
+#, fuzzy
+msgid "Folder not found in trash"
+msgstr "Mapa nije pronađena u otpadu"
+
+#: ../includes/pro.php:94
+#, fuzzy
+msgid "All %s folders"
+msgstr "Sve mape (njih %s)"
+
+#: ../includes/settings.php:35
+#, fuzzy
+msgid ""
+"Are you sure you want to delete all your HappyFiles folders, associations, "
+"and settings?"
+msgstr ""
+"Jeste li sigurni da želite izbrisati sve svoje mape, asocijacije i postavke "
+"HappyFiles?"
+
+#: ../includes/settings.php:137
+#, fuzzy
+msgid "No HappyFiles data to delete."
+msgstr "Nema podataka HappyFiles za brisanje."
+
+#: ../includes/settings.php:133
+#, fuzzy
+msgid "HappyFiles data has been deleted."
+msgstr "Podaci HappyFiles su izbrisani."
+
+#: ../includes/settings.php:157, ../includes/admin/settings.php:3
+msgid "Settings"
+msgstr "Postavke"
+
+#: ../includes/setup.php:60
+#, fuzzy
+msgid ""
+"Click the \"+\" button above to create your first folder. Then start "
+"dragging items into it. To remove an item from a folder drag it into the "
+"\"Uncategorized\" folder."
+msgstr ""
+"Kliknite gornji gumb \"+\" da biste stvorili svoju prvu mapu. Zatim počnite "
+"povlačiti stavke u nju. Da biste uklonili stavku iz mape, povucite je u mapu "
+"\"Nekategorizirano\"."
+
+#: ../includes/setup.php:61
+#, fuzzy
+msgid ""
+"No folders found that match your search criteria. Please try another phrase "
+"or clear your search. Search is case-sensitive."
+msgstr ""
+"Nisu pronađene mape koje odgovaraju vašim kriterijima pretraživanja. "
+"Pokušajte s drugom frazom ili obrišite pretraživanje. Pretraživanje "
+"razlikuje velika i mala slova."
+
+#: ../includes/setup.php:63, ../includes/shortcode.php:95
+msgid "Folders"
+msgstr "Mape"
+
+#: ../includes/setup.php:64
+msgid "Select"
+msgstr "Izaberi"
+
+#: ../includes/setup.php:65
+msgid "Create"
+msgstr "Stvori"
+
+#: ../includes/setup.php:66
+msgid "Cancel"
+msgstr "Otkaži"
+
+#: ../includes/setup.php:67
+msgid "Rename"
+msgstr "Preimenuj"
+
+#: ../includes/setup.php:68
+msgid "Delete"
+msgstr "Izbriši"
+
+#: ../includes/setup.php:69
+msgid "Move"
+msgstr "Premjesti"
+
+#: ../includes/setup.php:70
+msgid "Search"
+msgstr "Traži"
+
+#: ../includes/setup.php:71
+#, fuzzy
+msgid "Uploaded"
+msgstr "Učitano"
+
+#: ../includes/setup.php:72
+msgid "Sort"
+msgstr "Razvrstaj"
+
+#: ../includes/setup.php:73
+#, fuzzy
+msgid "Expand"
+msgstr "Proširiti"
+
+#: ../includes/setup.php:74
+#, fuzzy
+msgid "Collapse"
+msgstr "Kolaps"
+
+#: ../includes/setup.php:75
+msgid "Details"
+msgstr "Detalji"
+
+#: ../includes/setup.php:76
+#, fuzzy
+msgid "Subfolders"
+msgstr "Podmape"
+
+#: ../includes/setup.php:77, ../includes/shortcode.php:96
+#, fuzzy
+msgid "Hold down CTRL/CMD to select multiple folders."
+msgstr "Držite pritisnutu tipku CTRL/CMD za odabir više mapa."
+
+#: ../includes/setup.php:79
+#, fuzzy
+msgid "Delete folders"
+msgstr "Izbrišite mape"
+
+#: ../includes/setup.php:80
+#, fuzzy
+msgid "Delete folders & subfolders"
+msgstr "Izbrišite mape i podmape"
+
+#: ../includes/setup.php:81
+#, fuzzy
+msgid ""
+"Please confirm how you'd like to delete the HappyFiles folders listed below. "
+"All items inside those folders are safe & won't be deleted!"
+msgstr ""
+"Potvrdite kako želite izbrisati dolje navedene mape HappyFiles. Sve stavke "
+"unutar tih mapa su sigurne i neće se izbrisati!"
+
+#: ../includes/setup.php:82
+#, fuzzy
+msgid "The selected folders have been deleted."
+msgstr "Odabrane mape su izbrisane."
+
+#: ../includes/setup.php:83
+#, fuzzy
+msgid ""
+"The selected folder no longer exists. We recommend selecting another folder."
+msgstr "Odabrana mapa više ne postoji. Preporučujemo odabir druge mape."
+
+#: ../includes/setup.php:86
+#, fuzzy
+msgid "Click to copy"
+msgstr "Kliknite za kopiranje"
+
+#: ../includes/setup.php:87
+#, fuzzy
+msgid "Gallery shortcode"
+msgstr "Kratki kôd galerije"
+
+#: ../includes/setup.php:88
+msgid "Default"
+msgstr "Zadano"
+
+#: ../includes/setup.php:89, ../includes/shortcode.php:91
+msgid "Columns"
+msgstr "Stupci"
+
+#: ../includes/setup.php:90, ../includes/shortcode.php:92
+#, fuzzy
+msgid "Max items"
+msgstr "Maksimalan broj stavki"
+
+#: ../includes/setup.php:91, ../includes/shortcode.php:93
+msgid "Height"
+msgstr "Visina"
+
+#: ../includes/setup.php:92, ../includes/shortcode.php:94
+msgid "Spacing"
+msgstr "Razmak"
+
+#: ../includes/setup.php:93, ../includes/shortcode.php:99
+msgid "Order by"
+msgstr "Narudžbu je poslao"
+
+#: ../includes/setup.php:94, ../includes/shortcode.php:100
+msgid "Order"
+msgstr "Narudžba"
+
+#: ../includes/setup.php:95, ../includes/shortcode.php:97
+msgid "Image size"
+msgstr "Veličina slike"
+
+#: ../includes/setup.php:96, ../includes/shortcode.php:98
+msgid "Link to"
+msgstr "Poveznica na"
+
+#: ../includes/setup.php:97, ../includes/shortcode.php:101
+#, fuzzy
+msgid "Include subfolder"
+msgstr "Uključi podmapu"
+
+#: ../includes/setup.php:98, ../includes/shortcode.php:102
+msgid "Caption"
+msgstr "Opis"
+
+#: ../includes/setup.php:99, ../includes/setup.php:100,
+#: ../includes/setup.php:101, ../includes/setup.php:102,
+#: ../includes/shortcode.php:103, ../includes/shortcode.php:104,
+#: ../includes/shortcode.php:105, ../includes/shortcode.php:106
+#, fuzzy
+msgid "Lightbox"
+msgstr "Svjetleća kutija"
+
+#: ../includes/setup.php:100, ../includes/shortcode.php:104
+#, fuzzy
+msgid "Fullscreen"
+msgstr "Puni zaslon"
+
+#: ../includes/setup.php:101, ../includes/shortcode.php:105
+#, fuzzy
+msgid "Thumbnails"
+msgstr "Sličice"
+
+#: ../includes/setup.php:102, ../includes/shortcode.php:106
+msgid "Zoom"
+msgstr "Uvećanje"
+
+#: ../includes/setup.php:105
+msgid "Date"
+msgstr "Datum"
+
+#: ../includes/setup.php:106
+msgid "Author"
+msgstr "Autor"
+
+#: ../includes/setup.php:107
+msgid "Name"
+msgstr "Ime"
+
+#: ../includes/setup.php:108
+msgid "Title"
+msgstr "Naslov"
+
+#: ../includes/setup.php:109
+msgid "Type"
+msgstr "Vrsta"
+
+#: ../includes/setup.php:110
+msgid "Modified"
+msgstr "Datum promjene"
+
+#: ../includes/setup.php:111
+msgid "Random"
+msgstr "Nasumično"
+
+#: ../includes/setup.php:112, ../includes/shortcode.php:141
+msgid "None"
+msgstr "Nijedan"
+
+#: ../includes/setup.php:113, ../includes/pro/filesizes.php:27
+msgid "File size"
+msgstr "Veličina datoteke"
+
+#: ../includes/setup.php:116
+msgid "Descending"
+msgstr "Silazno"
+
+#: ../includes/setup.php:117
+msgid "Ascending"
+msgstr "Uzlazno"
+
+#: ../includes/setup.php:120
+msgid "Attachment"
+msgstr "Privitak"
+
+#: ../includes/setup.php:121
+msgid "Media"
+msgstr "Mediji"
+
+#: ../includes/setup.php:148
+#, fuzzy
+msgid "Optional: Assign a folder to your uploaded file(s):"
+msgstr "Izborno: dodijelite mapu prenesenim datotekama (datotekama):"
+
+#: ../includes/shortcode.php:88
+msgid "Gallery"
+msgstr "Galerija"
+
+#: ../includes/shortcode.php:89
+#, fuzzy
+msgid "Display your images in a beautiful gallery."
+msgstr "Prikažite svoje slike u prekrasnoj galeriji."
+
+#: ../includes/shortcode.php:90
+#, fuzzy
+msgid "Gallery settings"
+msgstr "Postavke galerije"
+
+#: ../includes/shortcode.php:132
+msgid "Thumbnail"
+msgstr "Sličica"
+
+#: ../includes/shortcode.php:133
+msgid "Medium"
+msgstr "Srednje"
+
+#: ../includes/shortcode.php:134
+msgid "Large"
+msgstr "Veliko"
+
+#: ../includes/shortcode.php:135
+msgid "Full size"
+msgstr "Puna veličina"
+
+#: ../includes/shortcode.php:139
+#, fuzzy
+msgid "Attachment page"
+msgstr "Stranica u privitku"
+
+#: ../includes/shortcode.php:140
+#, fuzzy
+msgid "Media file"
+msgstr "Medijska datoteka"
+
+#: ../includes/shortcode.php:330
+#, fuzzy
+msgid "No folder selected."
+msgstr "Nije odabrana nijedna mapa."
+
+#: ../includes/shortcode.php:354
+#, fuzzy
+msgid "The selected folder has no items."
+msgstr "Odabrana mapa nema stavki."
+
+#: ../includes/user.php:95, ../includes/admin/settings.php:71
+#, fuzzy
+msgid "Folder access"
+msgstr "Pristup mapama"
+
+#: ../includes/user.php:98, ../includes/admin/settings.php:92
+#, fuzzy
+msgid "View folders"
+msgstr "Prikaz mapa"
+
+#: ../includes/user.php:99, ../includes/admin/settings.php:91
+#, fuzzy
+msgid "Full access"
+msgstr "Puni pristup"
+
+#: ../includes/user.php:100, ../includes/admin/settings.php:93
+#, fuzzy
+msgid "No access"
+msgstr "Nema pristupa"
+
+#: ../includes/user.php:106, ../includes/pro/settings.php:261
+#, fuzzy
+msgid "SVG support"
+msgstr "SVG podrška"
+
+#: ../includes/user.php:110
+#, fuzzy
+msgid "Enable SVG uploads, preview, and sanitization"
+msgstr "Omogućite SVG prijenose, pregled i čišćenje"
+
+#: ../includes/admin/settings.php:6
+msgid "General"
+msgstr "Općenito"
+
+#: ../includes/admin/settings.php:7
+msgid "Permissions"
+msgstr "Dozvole"
+
+#: ../includes/admin/settings.php:8, ../includes/admin/settings.php:128
+msgid "Import"
+msgstr "Uvoz"
+
+#: ../includes/admin/settings.php:20, ../includes/admin/settings.php:25
+#, fuzzy
+msgid "Assign multiple folders"
+msgstr "Dodijelite više mapa"
+
+#: ../includes/admin/settings.php:28
+#, fuzzy
+msgid ""
+"When enabled you can assign multiple folders to one item. If disabled an "
+"item can only be assigned to one folder."
+msgstr ""
+"Kad je omogućeno, možete dodijeliti više mapa jednoj stavci. Ako je "
+"onemogućeno, stavka se može dodijeliti samo jednoj mapi."
+
+#: ../includes/admin/settings.php:34, ../includes/admin/settings.php:39
+#, fuzzy
+msgid "Remove from all folders"
+msgstr "Ukloni iz svih mapa"
+
+#: ../includes/admin/settings.php:42
+#, fuzzy
+msgid ""
+"When enabled removing an item from a folder removes it from all other "
+"folders. If disabled the item will only be removed from the open folder."
+msgstr ""
+"Kada je omogućeno uklanjanje stavke iz mape, uklanja se iz svih ostalih "
+"mapa. Ako je onemogućeno, stavka će se ukloniti samo iz otvorene mape."
+
+#: ../includes/admin/settings.php:48, ../includes/admin/settings.php:53
+#, fuzzy
+msgid "Infinite scrolling"
+msgstr "Beskonačno pomicanje"
+
+#: ../includes/admin/settings.php:56
+#, fuzzy
+msgid ""
+"When enabled the media library uses infinite scrolling instead of the new "
+"\"Load more\" button (that was introduces in WordPress 5.8)."
+msgstr ""
+"Kad je omogućeno, biblioteka medija koristi beskonačno pomicanje umjesto "
+"novog gumba \"Učitaj više\" (koji je predstavljen u WordPressu 5.8)."
+
+#: ../includes/admin/settings.php:72
+#, fuzzy
+msgid ""
+"Set folder access level per user role. Set folder access for individual user "
+"on user profile page."
+msgstr ""
+"Postavite razinu pristupa mapi prema korisničkoj ulozi. Postavite pristup "
+"mapi za svakog korisnika na stranici korisničkog profila."
+
+#: ../includes/admin/settings.php:131
+#, fuzzy
+msgid "No folders found to import."
+msgstr "Nije pronađena nijedna mapa za uvoz."
+
+#: ../includes/admin/settings.php:122
+#, fuzzy
+msgid "%s folders with %s associated items found to import."
+msgstr "Za uvoz je pronađeno %s mapa s %s povezanih stavki."
+
+#: ../includes/admin/settings.php:129, ../includes/admin/settings.php:144
+#, fuzzy
+msgid "Delete plugin data"
+msgstr "Izbrišite podatke dodatka"
+
+#: ../includes/admin/settings.php:143
+msgid "Save changes"
+msgstr "Spremi promjene"
+
+#: ../includes/pro/settings.php:61
+#, fuzzy
+msgid "License key deletion failed."
+msgstr "Brisanje licencnog ključa nije uspjelo."
+
+#: ../includes/pro/settings.php:59
+#, fuzzy
+msgid "License key has been removed."
+msgstr "Licencni ključ je uklonjen."
+
+#: ../includes/pro/settings.php:123
+#, fuzzy
+msgid "One click updates"
+msgstr "Ažuriranja jednim klikom"
+
+#: ../includes/pro/settings.php:139
+#, fuzzy
+msgid ""
+"Paste your license key from your %s in here to enable one-click plugin "
+"updates and notifications."
+msgstr ""
+"Ovdje zalijepite licencni ključ sa svojeg %s da biste omogućili ažuriranja i "
+"obavijesti dodataka jednim klikom."
+
+#: ../includes/pro/settings.php:139
+#, fuzzy
+msgid "HappyFiles account"
+msgstr "HappyFiles račun"
+
+#: ../includes/pro/settings.php:135
+msgid "Deactivate license"
+msgstr "Deaktiviranje licence"
+
+#: ../includes/pro/settings.php:156
+#, fuzzy
+msgid "Post Types"
+msgstr "Vrste postova"
+
+#: ../includes/pro/settings.php:166
+msgid "Plugins"
+msgstr "Dodaci"
+
+#: ../includes/pro/settings.php:199, ../includes/pro/settings.php:209
+#, fuzzy
+msgid "Disable in media library"
+msgstr "Onemogući u biblioteci medija"
+
+#: ../includes/pro/settings.php:222, ../includes/pro/settings.php:228
+#, fuzzy
+msgid "Sort by file size"
+msgstr "Poredaj po veličini datoteke"
+
+#: ../includes/pro/settings.php:231
+#, fuzzy
+msgid "When enabled you can sort your attachments by file size."
+msgstr ""
+"Kad je omogućeno, možete razvrstati svoje privitke prema veličini datoteke."
+
+#: ../includes/pro/settings.php:244
+#, fuzzy
+msgid "Regenerate file sizes"
+msgstr "Regenerirajte veličine datoteka"
+
+#: ../includes/pro/settings.php:263
+#, fuzzy
+msgid ""
+"Enable/disable SVG upload, preview & sanitization per user role. Set SVG "
+"support for individual user on user profile page."
+msgstr ""
+"Omogućite/onemogućite SVG prijenos, pregled i čišćenje po ulozi korisnika. "
+"Postavite SVG podršku za pojedinačnog korisnika na stranici profila "
+"korisnika."
+
+#: ../includes/pro/settings.php:264
+#, fuzzy
+msgid ""
+"Upload SVG files only from trusted sources as they can contain and execute "
+"malicious XML code."
+msgstr ""
+"Prenesite SVG datoteke samo iz pouzdanih izvora jer mogu sadržavati i "
+"izvršavati zlonamjerni XML kod."
+
+#: ../includes/pro/settings.php:283
+msgid "Disabled"
+msgstr "Onemogućeno"
+
+#: ../includes/pro/settings.php:284
+msgid "Enabled"
+msgstr "Omogućeno"
+
+#: ../includes/pro/svg.php:137
+#, fuzzy
+msgid ""
+"This file couldn't be sanitized for security reasons and wasn't uploaded."
+msgstr ""
+"Ova se datoteka nije mogla očistiti iz sigurnosnih razloga i nije učitana."

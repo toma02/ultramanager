@@ -1,0 +1,564 @@
+# Copyright (C) 2021 HappyFiles Internationalisation
+# This file is distributed under the same license as the HappyFiles Internationalisation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: HappyFiles Internationalisation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Language: ja\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ../includes/actions.php:66
+msgid "No folder name or term ID provided."
+msgstr "フォルダー名やタームIDは用意されていません。"
+
+#: ../includes/data.php:175
+msgid "All Files"
+msgstr "全てのファイル"
+
+#: ../includes/data.php:175
+msgid "All %s"
+msgstr "すべての %s"
+
+#: ../includes/data.php:176
+msgid "Files"
+msgstr "ファイル"
+
+#: ../includes/data.php:168
+msgid "All Plugins"
+msgstr "すべてのプラグイン"
+
+#: ../includes/data.php:201, ../includes/pro.php:95, ../includes/setup.php:141
+msgid "Uncategorized"
+msgstr "未分類"
+
+#: ../includes/import.php:143
+msgid "Folders from another media plugin detected to import"
+msgstr "他のメディアプラグインからのフォルダの読み込みが検出された"
+
+#: ../includes/import.php:144
+msgid "Import/delete folder data"
+msgstr "フォルダデータの取り込み/削除"
+
+#: ../includes/import.php:458, ../includes/import.php:574
+msgid "%s folders imported and %s items categorized."
+msgstr "%s個のフォルダを取り込み、%s個のアイテムを分類しました。"
+
+#: ../includes/import.php:461, ../includes/import.php:577
+msgid "View media library"
+msgstr "メディアライブラリを見る"
+
+#: ../includes/pro.php:47, ../includes/pro.php:48, ../includes/setup.php:49
+msgid "Folder"
+msgstr "フォルダ"
+
+#: ../includes/pro.php:49, ../includes/pro.php:51
+msgid "Add new folder"
+msgstr "新規フォルダの追加"
+
+#: ../includes/pro.php:50
+msgid "Edit folder"
+msgstr "フォルダの編集"
+
+#: ../includes/pro.php:52
+msgid "Search folder"
+msgstr "検索フォルダ"
+
+#: ../includes/pro.php:53
+msgid "Folder not found"
+msgstr "フォルダが見つからない"
+
+#: ../includes/pro.php:54
+msgid "Folder not found in trash"
+msgstr "ゴミ箱にフォルダが見つからない"
+
+#: ../includes/pro.php:94
+msgid "All %s folders"
+msgstr "すべての%sフォルダ"
+
+#: ../includes/settings.php:35
+msgid ""
+"Are you sure you want to delete all your HappyFiles folders, associations, "
+"and settings?"
+msgstr "HappyFilesのフォルダ、関連付け、設定をすべて削除してもよろしいですか？"
+
+#: ../includes/settings.php:137
+msgid "No HappyFiles data to delete."
+msgstr "削除するHappyFilesデータはありません。"
+
+#: ../includes/settings.php:133
+msgid "HappyFiles data has been deleted."
+msgstr "HappyFilesのデータが削除されました。"
+
+#: ../includes/settings.php:157, ../includes/admin/settings.php:3
+msgid "Settings"
+msgstr "設定"
+
+#: ../includes/setup.php:47
+msgid ""
+"Click the \"+\" button above to create your first folder. Then start "
+"dragging items into it. To remove an item from a folder drag it into the "
+"\"Uncategorized\" folder."
+msgstr ""
+"上の「+」ボタンをクリックすると、最初のフォルダが作成されます。その後、アイテ"
+"ムをそこにドラッグしてください。フォルダからアイテムを削除するには、そのアイ"
+"テムを「未分類」フォルダにドラッグします。"
+
+#: ../includes/setup.php:48
+msgid ""
+"No folders found that match your search criteria. Please try another phrase "
+"or clear your search. Search is case-sensitive."
+msgstr ""
+"検索条件に一致するフォルダが見つかりませんでした。別のフレーズをお試しいただ"
+"くか、検索を解除してください。検索は大文字と小文字を区別します。"
+
+#: ../includes/setup.php:50, ../includes/shortcode.php:95
+msgid "Folders"
+msgstr "フォルダー"
+
+#: ../includes/setup.php:51
+msgid "Select"
+msgstr "選択"
+
+#: ../includes/setup.php:52
+msgid "Create"
+msgstr "作成"
+
+#: ../includes/setup.php:53
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: ../includes/setup.php:54
+msgid "Rename"
+msgstr "名前の変更"
+
+#: ../includes/setup.php:55
+msgid "Delete"
+msgstr "削除"
+
+#: ../includes/setup.php:56
+msgid "Move"
+msgstr "移動"
+
+#: ../includes/setup.php:57
+msgid "Search"
+msgstr "検索"
+
+#: ../includes/setup.php:58
+msgid "Uploaded"
+msgstr "アップロード"
+
+#: ../includes/setup.php:59
+msgid "Sort"
+msgstr "ソート"
+
+#: ../includes/setup.php:60
+msgid "Expand"
+msgstr "拡張"
+
+#: ../includes/setup.php:61
+msgid "Collapse"
+msgstr "折り畳む"
+
+#: ../includes/setup.php:62
+msgid "Details"
+msgstr "詳細"
+
+#: ../includes/setup.php:63
+msgid "Subfolders"
+msgstr "サブフォルダ"
+
+#: ../includes/setup.php:64, ../includes/shortcode.php:96
+msgid "Hold down CTRL/CMD to select multiple folders."
+msgstr "CTRL/CMDを押しながら操作すると、複数のフォルダを選択できます。"
+
+#: ../includes/setup.php:66
+msgid "Delete folders"
+msgstr "フォルダの削除"
+
+#: ../includes/setup.php:67
+msgid "Delete folders & subfolders"
+msgstr "フォルダ・サブフォルダの削除"
+
+#: ../includes/setup.php:68
+msgid ""
+"Please confirm how you'd like to delete the HappyFiles folders listed below. "
+"All items inside those folders are safe & won't be deleted!"
+msgstr ""
+"下記のHappyFilesフォルダをどのように削除するか確認してください。これらのフォ"
+"ルダ内のアイテムはすべて安全で、削除されません。"
+
+#: ../includes/setup.php:69
+msgid "The selected folders have been deleted."
+msgstr "選択したフォルダーが削除されました。"
+
+#: ../includes/setup.php:70
+msgid ""
+"The selected folder no longer exists. We recommend selecting another folder."
+msgstr ""
+"選択したフォルダはもう存在しません。別のフォルダーを選択することをお勧めしま"
+"す。"
+
+#: ../includes/setup.php:73
+msgid "Click to copy"
+msgstr "クリックしてコピー"
+
+#: ../includes/setup.php:74
+msgid "Gallery shortcode"
+msgstr "ギャラリーショートコード"
+
+#: ../includes/setup.php:75
+msgid "Default"
+msgstr "デフォルト"
+
+#: ../includes/setup.php:76, ../includes/shortcode.php:91
+msgid "Columns"
+msgstr "カラム"
+
+#: ../includes/setup.php:77, ../includes/shortcode.php:92
+msgid "Max items"
+msgstr "最大の項目数"
+
+#: ../includes/setup.php:78, ../includes/shortcode.php:93
+msgid "Height"
+msgstr "高さ"
+
+#: ../includes/setup.php:79, ../includes/shortcode.php:94
+msgid "Spacing"
+msgstr "スペース"
+
+#: ../includes/setup.php:80, ../includes/shortcode.php:99
+msgid "Order by"
+msgstr "並び順"
+
+#: ../includes/setup.php:81, ../includes/shortcode.php:100
+msgid "Order"
+msgstr "注文"
+
+#: ../includes/setup.php:82, ../includes/shortcode.php:97
+msgid "Image size"
+msgstr "画像サイズ"
+
+#: ../includes/setup.php:83, ../includes/shortcode.php:98
+msgid "Link to"
+msgstr "アクションボタンのリンク先URL"
+
+#: ../includes/setup.php:84, ../includes/shortcode.php:101
+msgid "Include subfolder"
+msgstr "サブフォルダを含む"
+
+#: ../includes/setup.php:85, ../includes/shortcode.php:102
+msgid "Caption"
+msgstr "キャプション"
+
+#: ../includes/setup.php:86, ../includes/setup.php:87,
+#: ../includes/setup.php:88, ../includes/setup.php:89,
+#: ../includes/shortcode.php:103, ../includes/shortcode.php:104,
+#: ../includes/shortcode.php:105, ../includes/shortcode.php:106
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../includes/setup.php:87, ../includes/shortcode.php:104
+msgid "Fullscreen"
+msgstr "フルスクリーン"
+
+#: ../includes/setup.php:88, ../includes/shortcode.php:105
+msgid "Thumbnails"
+msgstr "サムネイル"
+
+#: ../includes/setup.php:89, ../includes/shortcode.php:106
+msgid "Zoom"
+msgstr "ズーム"
+
+#: ../includes/setup.php:92
+msgid "Date"
+msgstr "日付"
+
+#: ../includes/setup.php:93
+msgid "Author"
+msgstr "投稿者"
+
+#: ../includes/setup.php:94
+msgid "Name"
+msgstr "名前"
+
+#: ../includes/setup.php:95
+msgid "Title"
+msgstr "タイトル"
+
+#: ../includes/setup.php:96
+msgid "Type"
+msgstr "タイプ"
+
+#: ../includes/setup.php:97
+msgid "Modified"
+msgstr "更新日"
+
+#: ../includes/setup.php:98
+msgid "Random"
+msgstr "ランダム"
+
+#: ../includes/setup.php:99, ../includes/shortcode.php:141
+msgid "None"
+msgstr "なし"
+
+#: ../includes/setup.php:100, ../includes/pro/filesizes.php:27
+msgid "File size"
+msgstr "ファイルサイズ"
+
+#: ../includes/setup.php:103
+msgid "Descending"
+msgstr "降順"
+
+#: ../includes/setup.php:104
+msgid "Ascending"
+msgstr "昇順"
+
+#: ../includes/setup.php:107
+msgid "Attachment"
+msgstr "添付ファイル"
+
+#: ../includes/setup.php:108
+msgid "Media"
+msgstr "メディア"
+
+#: ../includes/setup.php:135
+msgid "Optional: Assign a folder to your uploaded file(s):"
+msgstr "任意です。アップロードしたファイルにフォルダを割り当てます。"
+
+#: ../includes/shortcode.php:88
+msgid "Gallery"
+msgstr "ギャラリー"
+
+#: ../includes/shortcode.php:89
+msgid "Display your images in a beautiful gallery."
+msgstr "撮った画像を美しいギャラリーとして表示することができます。"
+
+#: ../includes/shortcode.php:90
+msgid "Gallery settings"
+msgstr "ギャラリーの設定"
+
+#: ../includes/shortcode.php:132
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: ../includes/shortcode.php:133
+msgid "Medium"
+msgstr "中"
+
+#: ../includes/shortcode.php:134
+msgid "Large"
+msgstr "大"
+
+#: ../includes/shortcode.php:135
+msgid "Full size"
+msgstr "フルサイズ"
+
+#: ../includes/shortcode.php:139
+msgid "Attachment page"
+msgstr "添付ファイルページ"
+
+#: ../includes/shortcode.php:140
+msgid "Media file"
+msgstr "メディアファイル"
+
+#: ../includes/shortcode.php:330
+msgid "No folder selected."
+msgstr "フォルダが選択されていません。"
+
+#: ../includes/shortcode.php:354
+msgid "The selected folder has no items."
+msgstr "選択したフォルダーにはアイテムがありません。"
+
+#: ../includes/user.php:95, ../includes/admin/settings.php:71
+msgid "Folder access"
+msgstr "フォルダアクセス"
+
+#: ../includes/user.php:98, ../includes/admin/settings.php:92
+msgid "View folders"
+msgstr "フォルダを見る"
+
+#: ../includes/user.php:99, ../includes/admin/settings.php:91
+msgid "Full access"
+msgstr "フルアクセス"
+
+#: ../includes/user.php:100, ../includes/admin/settings.php:93
+msgid "No access"
+msgstr "アクセスなし"
+
+#: ../includes/user.php:106, ../includes/pro/settings.php:261
+msgid "SVG support"
+msgstr "SVG対応"
+
+#: ../includes/user.php:110
+msgid "Enable SVG uploads, preview, and sanitization"
+msgstr "SVGのアップロード、プレビュー、およびサニタイズを可能にする"
+
+#: ../includes/admin/settings.php:6
+msgid "General"
+msgstr "一般"
+
+#: ../includes/admin/settings.php:7
+msgid "Permissions"
+msgstr "権限"
+
+#: ../includes/admin/settings.php:8, ../includes/admin/settings.php:128
+msgid "Import"
+msgstr "インポート"
+
+#: ../includes/admin/settings.php:20, ../includes/admin/settings.php:25
+msgid "Assign multiple folders"
+msgstr "複数のフォルダを割り当てる"
+
+#: ../includes/admin/settings.php:28
+msgid ""
+"When enabled you can assign multiple folders to one item. If disabled an "
+"item can only be assigned to one folder."
+msgstr ""
+"有効にすると、1つのアイテムに複数のフォルダを割り当てることができます。無効の"
+"場合、1つのアイテムは1つのフォルダーにしか割り当てられません。"
+
+#: ../includes/admin/settings.php:34, ../includes/admin/settings.php:39
+msgid "Remove from all folders"
+msgstr "すべてのフォルダから削除"
+
+#: ../includes/admin/settings.php:42
+msgid ""
+"When enabled removing an item from a folder removes it from all other "
+"folders. If disabled the item will only be removed from the open folder."
+msgstr ""
+"有効にすると、あるフォルダからアイテムを削除すると、他のすべてのフォルダから"
+"も削除されます。無効の場合、アイテムは開いているフォルダーからのみ削除されま"
+"す。"
+
+#: ../includes/admin/settings.php:48, ../includes/admin/settings.php:53
+msgid "Infinite scrolling"
+msgstr "無限スクロール"
+
+#: ../includes/admin/settings.php:56
+msgid ""
+"When enabled the media library uses infinite scrolling instead of the new "
+"\"Load more\" button (that was introduces in WordPress 5.8)."
+msgstr ""
+"この機能を有効にすると、メディアライブラリは（WordPress 5.8 で導入された）新"
+"しい「もっと読む」ボタンの代わりに無限スクロールを使用します。"
+
+#: ../includes/admin/settings.php:72
+msgid ""
+"Set folder access level per user role. Set folder access for individual user "
+"on user profile page."
+msgstr ""
+"ユーザーの役割ごとにフォルダのアクセスレベルを設定することができます。ユー"
+"ザープロファイルページで、個々のユーザーのフォルダーアクセスを設定する。"
+
+#: ../includes/admin/settings.php:131
+msgid "No folders found to import."
+msgstr "インポートするフォルダーが見つかりません。"
+
+#: ../includes/admin/settings.php:122
+msgid "%s folders with %s associated items found to import."
+msgstr "%s個のフォルダと%s個の関連アイテムがインポートされました。"
+
+#: ../includes/admin/settings.php:129, ../includes/admin/settings.php:144
+msgid "Delete plugin data"
+msgstr "プラグインデータの削除"
+
+#: ../includes/admin/settings.php:143
+msgid "Save changes"
+msgstr "変更を保存"
+
+#: ../includes/pro/settings.php:61
+msgid "License key deletion failed."
+msgstr "ライセンスキーの削除に失敗しました。"
+
+#: ../includes/pro/settings.php:59
+msgid "License key has been removed."
+msgstr "ライセンスキーが削除されました。"
+
+#: ../includes/pro/settings.php:123
+msgid "One click updates"
+msgstr "ワンクリックで更新"
+
+#: ../includes/pro/settings.php:139
+msgid ""
+"Paste your license key from your %s in here to enable one-click plugin "
+"updates and notifications."
+msgstr ""
+"ここに%sのライセンスキーを貼り付けると、ワンクリックでプラグインの更新や通知"
+"ができるようになります。"
+
+#: ../includes/pro/settings.php:139
+msgid "HappyFiles account"
+msgstr "HappyFilesアカウント"
+
+#: ../includes/pro/settings.php:135
+msgid "Deactivate license"
+msgstr "ライセンスを無効化"
+
+#: ../includes/pro/settings.php:156
+msgid "Post Types"
+msgstr "投稿タイプ"
+
+#: ../includes/pro/settings.php:166
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: ../includes/pro/settings.php:199, ../includes/pro/settings.php:209
+msgid "Disable in media library"
+msgstr "メディアライブラリでの無効化"
+
+#: ../includes/pro/settings.php:222, ../includes/pro/settings.php:228
+msgid "Sort by file size"
+msgstr "ファイルサイズでソート"
+
+#: ../includes/pro/settings.php:231
+msgid "When enabled you can sort your attachments by file size."
+msgstr "有効にすると、添付ファイルをファイルサイズでソートすることができます。"
+
+#: ../includes/pro/settings.php:244
+msgid "Regenerate file sizes"
+msgstr "ファイルサイズの再生成"
+
+#: ../includes/pro/settings.php:263
+msgid ""
+"Enable/disable SVG upload, preview & sanitization per user role. Set SVG "
+"support for individual user on user profile page."
+msgstr ""
+"ユーザーの役割ごとにSVGのアップロード、プレビュー、サニタイズを有効／無効にす"
+"る。ユーザーのプロフィールページで、個々のユーザーのSVGサポートを設定。"
+
+#: ../includes/pro/settings.php:264
+msgid ""
+"Upload SVG files only from trusted sources as they can contain and execute "
+"malicious XML code."
+msgstr ""
+"SVGファイルには悪意のあるXMLコードが含まれ、実行される可能性があるため、信頼"
+"できるソースからのみアップロードしてください。"
+
+#: ../includes/pro/settings.php:283
+msgid "Disabled"
+msgstr "無効"
+
+#: ../includes/pro/settings.php:284
+msgid "Enabled"
+msgstr "有効"
+
+#: ../includes/pro/svg.php:137
+msgid ""
+"This file couldn't be sanitized for security reasons and wasn't uploaded."
+msgstr ""
+"このファイルはセキュリティ上の理由でサニタイズできず、アップロードされません"
+"でした。"

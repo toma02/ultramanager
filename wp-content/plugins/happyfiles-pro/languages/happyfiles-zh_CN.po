@@ -1,0 +1,554 @@
+# Copyright (C) 2021 HappyFiles Internationalisation
+# This file is distributed under the same license as the HappyFiles Internationalisation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: HappyFiles Internationalisation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Language: zh\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ../includes/actions.php:66
+msgid "No folder name or term ID provided."
+msgstr "没有提供文件夹名称或术语ID。"
+
+#: ../includes/data.php:175
+msgid "All Files"
+msgstr "所有文件"
+
+#: ../includes/data.php:175
+msgid "All %s"
+msgstr "所有 %s"
+
+#: ../includes/data.php:176
+msgid "Files"
+msgstr "文件"
+
+#: ../includes/data.php:168
+msgid "All Plugins"
+msgstr "所有插件"
+
+#: ../includes/data.php:201, ../includes/pro.php:95, ../includes/setup.php:141
+msgid "Uncategorized"
+msgstr "未分类"
+
+#: ../includes/import.php:143
+msgid "Folders from another media plugin detected to import"
+msgstr "检测到从另一个媒体插件导入的文件夹"
+
+#: ../includes/import.php:144
+msgid "Import/delete folder data"
+msgstr "导入/删除文件夹数据"
+
+#: ../includes/import.php:458, ../includes/import.php:574
+msgid "%s folders imported and %s items categorized."
+msgstr "导入了%s个文件夹，并对%s个项目进行了分类。"
+
+#: ../includes/import.php:461, ../includes/import.php:577
+msgid "View media library"
+msgstr "查看媒体库"
+
+#: ../includes/pro.php:47, ../includes/pro.php:48, ../includes/setup.php:49
+msgid "Folder"
+msgstr "文件夹"
+
+#: ../includes/pro.php:49, ../includes/pro.php:51
+msgid "Add new folder"
+msgstr "添加新的文件夹"
+
+#: ../includes/pro.php:50
+msgid "Edit folder"
+msgstr "编辑文件夹"
+
+#: ../includes/pro.php:52
+msgid "Search folder"
+msgstr "搜索文件夹"
+
+#: ../includes/pro.php:53
+msgid "Folder not found"
+msgstr "未发现文件夹"
+
+#: ../includes/pro.php:54
+msgid "Folder not found in trash"
+msgstr "在垃圾箱中找不到文件夹"
+
+#: ../includes/pro.php:94
+msgid "All %s folders"
+msgstr "所有%s文件夹"
+
+#: ../includes/settings.php:35
+msgid ""
+"Are you sure you want to delete all your HappyFiles folders, associations, "
+"and settings?"
+msgstr "你确定要删除你所有的HappyFiles文件夹、关联和设置吗？"
+
+#: ../includes/settings.php:137
+msgid "No HappyFiles data to delete."
+msgstr "无HappyFiles数据可删除。"
+
+#: ../includes/settings.php:133
+msgid "HappyFiles data has been deleted."
+msgstr "HappyFiles的数据已被删除。"
+
+#: ../includes/settings.php:157, ../includes/admin/settings.php:3
+msgid "Settings"
+msgstr "设置"
+
+#: ../includes/setup.php:47
+msgid ""
+"Click the \"+\" button above to create your first folder. Then start "
+"dragging items into it. To remove an item from a folder drag it into the "
+"\"Uncategorized\" folder."
+msgstr ""
+"点击上面的 \"+\"按钮，创建你的第一个文件夹。然后开始将项目拖入其中。要从一个"
+"文件夹中删除一个项目，请将其拖入 \"未分类 \"文件夹。"
+
+#: ../includes/setup.php:48
+msgid ""
+"No folders found that match your search criteria. Please try another phrase "
+"or clear your search. Search is case-sensitive."
+msgstr ""
+"没有找到符合您搜索条件的文件夹。请尝试另一个短语或清除您的搜索。搜索是区分大"
+"小写的。"
+
+#: ../includes/setup.php:50, ../includes/shortcode.php:95
+msgid "Folders"
+msgstr "文件夹"
+
+#: ../includes/setup.php:51
+msgid "Select"
+msgstr "选择"
+
+#: ../includes/setup.php:52
+msgid "Create"
+msgstr "创建"
+
+#: ../includes/setup.php:53
+msgid "Cancel"
+msgstr "取消"
+
+#: ../includes/setup.php:54
+msgid "Rename"
+msgstr "重命名"
+
+#: ../includes/setup.php:55
+msgid "Delete"
+msgstr "删除"
+
+#: ../includes/setup.php:56
+msgid "Move"
+msgstr "移动"
+
+#: ../includes/setup.php:57
+msgid "Search"
+msgstr "搜索"
+
+#: ../includes/setup.php:58
+msgid "Uploaded"
+msgstr "上传"
+
+#: ../includes/setup.php:59
+msgid "Sort"
+msgstr "排序"
+
+#: ../includes/setup.php:60
+msgid "Expand"
+msgstr "扩大"
+
+#: ../includes/setup.php:61
+msgid "Collapse"
+msgstr "折叠"
+
+#: ../includes/setup.php:62
+msgid "Details"
+msgstr "详情"
+
+#: ../includes/setup.php:63
+msgid "Subfolders"
+msgstr "子文件夹"
+
+#: ../includes/setup.php:64, ../includes/shortcode.php:96
+msgid "Hold down CTRL/CMD to select multiple folders."
+msgstr "按住CTRL/CMD来选择多个文件夹。"
+
+#: ../includes/setup.php:66
+msgid "Delete folders"
+msgstr "删除文件夹"
+
+#: ../includes/setup.php:67
+msgid "Delete folders & subfolders"
+msgstr "删除文件夹和子文件夹"
+
+#: ../includes/setup.php:68
+msgid ""
+"Please confirm how you'd like to delete the HappyFiles folders listed below. "
+"All items inside those folders are safe & won't be deleted!"
+msgstr ""
+"请确认你想如何删除下面列出的HappyFiles文件夹。这些文件夹中的所有项目都是安全"
+"的，不会被删除!"
+
+#: ../includes/setup.php:69
+msgid "The selected folders have been deleted."
+msgstr "所选的文件夹已被删除。"
+
+#: ../includes/setup.php:70
+msgid ""
+"The selected folder no longer exists. We recommend selecting another folder."
+msgstr "所选的文件夹不再存在。我们建议选择另一个文件夹。"
+
+#: ../includes/setup.php:73
+msgid "Click to copy"
+msgstr "点击复制"
+
+#: ../includes/setup.php:74
+msgid "Gallery shortcode"
+msgstr "相册短代码"
+
+#: ../includes/setup.php:75
+msgid "Default"
+msgstr "默认"
+
+#: ../includes/setup.php:76, ../includes/shortcode.php:91
+msgid "Columns"
+msgstr "列"
+
+#: ../includes/setup.php:77, ../includes/shortcode.php:92
+msgid "Max items"
+msgstr "最大项目"
+
+#: ../includes/setup.php:78, ../includes/shortcode.php:93
+msgid "Height"
+msgstr "高度"
+
+#: ../includes/setup.php:79, ../includes/shortcode.php:94
+msgid "Spacing"
+msgstr "间距"
+
+#: ../includes/setup.php:80, ../includes/shortcode.php:99
+msgid "Order by"
+msgstr "排序"
+
+#: ../includes/setup.php:81, ../includes/shortcode.php:100
+msgid "Order"
+msgstr "排序"
+
+#: ../includes/setup.php:82, ../includes/shortcode.php:97
+msgid "Image size"
+msgstr "图片大小"
+
+#: ../includes/setup.php:83, ../includes/shortcode.php:98
+msgid "Link to"
+msgstr "链接到"
+
+#: ../includes/setup.php:84, ../includes/shortcode.php:101
+msgid "Include subfolder"
+msgstr "包括子文件夹"
+
+#: ../includes/setup.php:85, ../includes/shortcode.php:102
+msgid "Caption"
+msgstr "描述"
+
+#: ../includes/setup.php:86, ../includes/setup.php:87,
+#: ../includes/setup.php:88, ../includes/setup.php:89,
+#: ../includes/shortcode.php:103, ../includes/shortcode.php:104,
+#: ../includes/shortcode.php:105, ../includes/shortcode.php:106
+msgid "Lightbox"
+msgstr "灯箱"
+
+#: ../includes/setup.php:87, ../includes/shortcode.php:104
+msgid "Fullscreen"
+msgstr "显示全屏"
+
+#: ../includes/setup.php:88, ../includes/shortcode.php:105
+msgid "Thumbnails"
+msgstr "缩略图"
+
+#: ../includes/setup.php:89, ../includes/shortcode.php:106
+msgid "Zoom"
+msgstr "缩放"
+
+#: ../includes/setup.php:92
+msgid "Date"
+msgstr "日期"
+
+#: ../includes/setup.php:93
+msgid "Author"
+msgstr "作者"
+
+#: ../includes/setup.php:94
+msgid "Name"
+msgstr "名称"
+
+#: ../includes/setup.php:95
+msgid "Title"
+msgstr "标题"
+
+#: ../includes/setup.php:96
+msgid "Type"
+msgstr "类型"
+
+#: ../includes/setup.php:97
+msgid "Modified"
+msgstr "修改"
+
+#: ../includes/setup.php:98
+msgid "Random"
+msgstr "随机"
+
+#: ../includes/setup.php:99, ../includes/shortcode.php:141
+msgid "None"
+msgstr "无"
+
+#: ../includes/setup.php:100, ../includes/pro/filesizes.php:27
+msgid "File size"
+msgstr "文件大小"
+
+#: ../includes/setup.php:103
+msgid "Descending"
+msgstr "降序"
+
+#: ../includes/setup.php:104
+msgid "Ascending"
+msgstr "升序"
+
+#: ../includes/setup.php:107
+msgid "Attachment"
+msgstr "是否固定"
+
+#: ../includes/setup.php:108
+msgid "Media"
+msgstr "媒体"
+
+#: ../includes/setup.php:135
+msgid "Optional: Assign a folder to your uploaded file(s):"
+msgstr "可选的。为你上传的文件指定一个文件夹。"
+
+#: ../includes/shortcode.php:88
+msgid "Gallery"
+msgstr "画廊"
+
+#: ../includes/shortcode.php:89
+msgid "Display your images in a beautiful gallery."
+msgstr "在美丽的画廊中显示图像。"
+
+#: ../includes/shortcode.php:90
+msgid "Gallery settings"
+msgstr "图库设置"
+
+#: ../includes/shortcode.php:132
+msgid "Thumbnail"
+msgstr "缩略图"
+
+#: ../includes/shortcode.php:133
+msgid "Medium"
+msgstr "中等"
+
+#: ../includes/shortcode.php:134
+msgid "Large"
+msgstr "大的"
+
+#: ../includes/shortcode.php:135
+msgid "Full size"
+msgstr "全尺寸"
+
+#: ../includes/shortcode.php:139
+msgid "Attachment page"
+msgstr "附件页面"
+
+#: ../includes/shortcode.php:140
+msgid "Media file"
+msgstr "媒体文件"
+
+#: ../includes/shortcode.php:330
+msgid "No folder selected."
+msgstr "没有选择文件夹。"
+
+#: ../includes/shortcode.php:354
+msgid "The selected folder has no items."
+msgstr "所选文件夹没有项目。"
+
+#: ../includes/user.php:95, ../includes/admin/settings.php:71
+msgid "Folder access"
+msgstr "文件夹访问"
+
+#: ../includes/user.php:98, ../includes/admin/settings.php:92
+msgid "View folders"
+msgstr "查看文件夹"
+
+#: ../includes/user.php:99, ../includes/admin/settings.php:91
+msgid "Full access"
+msgstr "全部权限"
+
+#: ../includes/user.php:100, ../includes/admin/settings.php:93
+msgid "No access"
+msgstr "无法访问"
+
+#: ../includes/user.php:106, ../includes/pro/settings.php:261
+msgid "SVG support"
+msgstr "支持SVG"
+
+#: ../includes/user.php:110
+msgid "Enable SVG uploads, preview, and sanitization"
+msgstr "启用SVG上传、预览和净化功能"
+
+#: ../includes/admin/settings.php:6
+msgid "General"
+msgstr "常规"
+
+#: ../includes/admin/settings.php:7
+msgid "Permissions"
+msgstr "权限"
+
+#: ../includes/admin/settings.php:8, ../includes/admin/settings.php:128
+msgid "Import"
+msgstr "导入"
+
+#: ../includes/admin/settings.php:20, ../includes/admin/settings.php:25
+msgid "Assign multiple folders"
+msgstr "指定多个文件夹"
+
+#: ../includes/admin/settings.php:28
+msgid ""
+"When enabled you can assign multiple folders to one item. If disabled an "
+"item can only be assigned to one folder."
+msgstr ""
+"当启用时，你可以为一个项目指定多个文件夹。如果禁用，一个项目只能被分配到一个"
+"文件夹。"
+
+#: ../includes/admin/settings.php:34, ../includes/admin/settings.php:39
+msgid "Remove from all folders"
+msgstr "从所有文件夹中删除"
+
+#: ../includes/admin/settings.php:42
+msgid ""
+"When enabled removing an item from a folder removes it from all other "
+"folders. If disabled the item will only be removed from the open folder."
+msgstr ""
+"当启用时，从一个文件夹中删除一个项目会将其从所有其他文件夹中删除。如果禁用，"
+"该项目将只从打开的文件夹中删除。"
+
+#: ../includes/admin/settings.php:48, ../includes/admin/settings.php:53
+msgid "Infinite scrolling"
+msgstr "无限滚动"
+
+#: ../includes/admin/settings.php:56
+msgid ""
+"When enabled the media library uses infinite scrolling instead of the new "
+"\"Load more\" button (that was introduces in WordPress 5.8)."
+msgstr ""
+"当启用时，媒体库使用无限滚动，而不是新的 \"加载更多 \"按钮（在WordPress 5.8中"
+"引入的）。"
+
+#: ../includes/admin/settings.php:72
+msgid ""
+"Set folder access level per user role. Set folder access for individual user "
+"on user profile page."
+msgstr ""
+"为每个用户角色设置文件夹访问级别。在用户资料页面上为单个用户设置文件夹访问权"
+"限。"
+
+#: ../includes/admin/settings.php:131
+msgid "No folders found to import."
+msgstr "找不到要导入的文件夹。"
+
+#: ../includes/admin/settings.php:122
+msgid "%s folders with %s associated items found to import."
+msgstr "发现有%s个文件夹和%s个相关项目需要导入。"
+
+#: ../includes/admin/settings.php:129, ../includes/admin/settings.php:144
+msgid "Delete plugin data"
+msgstr "删除插件数据"
+
+#: ../includes/admin/settings.php:143
+msgid "Save changes"
+msgstr "保存更改"
+
+#: ../includes/pro/settings.php:61
+msgid "License key deletion failed."
+msgstr "许可证密钥删除失败。"
+
+#: ../includes/pro/settings.php:59
+msgid "License key has been removed."
+msgstr "许可证密钥已被删除。"
+
+#: ../includes/pro/settings.php:123
+msgid "One click updates"
+msgstr "一键更新"
+
+#: ../includes/pro/settings.php:139
+msgid ""
+"Paste your license key from your %s in here to enable one-click plugin "
+"updates and notifications."
+msgstr "将你的%s的许可证密钥粘贴在这里，以启用一键式插件更新和通知。"
+
+#: ../includes/pro/settings.php:139
+msgid "HappyFiles account"
+msgstr "HappyFiles 帐户"
+
+#: ../includes/pro/settings.php:135
+msgid "Deactivate license"
+msgstr "停用许可证"
+
+#: ../includes/pro/settings.php:156
+msgid "Post Types"
+msgstr "文章类型"
+
+#: ../includes/pro/settings.php:166
+msgid "Plugins"
+msgstr "插件"
+
+#: ../includes/pro/settings.php:199, ../includes/pro/settings.php:209
+msgid "Disable in media library"
+msgstr "在媒体库中禁用"
+
+#: ../includes/pro/settings.php:222, ../includes/pro/settings.php:228
+msgid "Sort by file size"
+msgstr "按文件大小排序"
+
+#: ../includes/pro/settings.php:231
+msgid "When enabled you can sort your attachments by file size."
+msgstr "启用后，你可以按文件大小对你的附件进行分类。"
+
+#: ../includes/pro/settings.php:244
+msgid "Regenerate file sizes"
+msgstr "重新生成文件大小"
+
+#: ../includes/pro/settings.php:263
+msgid ""
+"Enable/disable SVG upload, preview & sanitization per user role. Set SVG "
+"support for individual user on user profile page."
+msgstr ""
+"根据用户角色启用/禁用SVG上传、预览和净化。在用户资料页上为单个用户设置SVG支"
+"持。"
+
+#: ../includes/pro/settings.php:264
+msgid ""
+"Upload SVG files only from trusted sources as they can contain and execute "
+"malicious XML code."
+msgstr "只从受信任的来源上传SVG文件，因为它们可能包含并执行恶意的XML代码。"
+
+#: ../includes/pro/settings.php:283
+msgid "Disabled"
+msgstr "已停用"
+
+#: ../includes/pro/settings.php:284
+msgid "Enabled"
+msgstr "启用"
+
+#: ../includes/pro/svg.php:137
+msgid ""
+"This file couldn't be sanitized for security reasons and wasn't uploaded."
+msgstr "出于安全原因，此文件无法进行生成，并且未上传。"

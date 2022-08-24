@@ -1,0 +1,10 @@
+/*!
+* WP Grid Builder Plugin
+*
+* @package   WP Grid Builder
+* @author    Loïc Blascos
+* @link      https://www.wpgridbuilder.com
+* @copyright 2019-2021 Loïc Blascos
+*
+*/
+!function(g){g(function(){"use strict";var e,d,s;function c(t){return t.map(function(t){return{text:t.label,value:t.value}})}function o(t){return g.ajax({url:wpApiSettings.root+"wp_grid_builder/v1/get/?type="+t,method:"GET",beforeSend:function(t){t.setRequestHeader("X-WP-Nonce",wpApiSettings.nonce)}})}window.wpApiSettings&&window.wpgb_tinymce&&window.tinymce&&(wpgb_tinymce.settings[0].onSelect=function(){var t=e.find("#facet")[0];"facet"===this.value()?t.parent().show():t.parent().hide()},tinymce.PluginManager.add("wpgb",function(a){a.addCommand("wpgb-grid-shortcode",function(){e=a.windowManager.open({id:"wpgb-grid-shortcode",title:"Gridbuilder ᵂᴾ",icon:"dashicons-screenoptions",fixedWidth:!1,width:580,height:200,popup_css:!1,resizable:!0,inline:!0,autoScroll:!1,body:wpgb_tinymce.settings,onsubmit:function(t){var e=t.data.type,n=t.data.grid,t=t.data.facet;"grid"===e&&n?a.insertContent('[wpgb_grid id="'+n+'"]'):"facet"===e&&n&&t&&a.insertContent('[wpgb_facet id="'+t+'" grid="'+n+'"]')}});var n,i,t=wpgb_tinymce.settings[1].values.length<2;e.find("#grid")[0].disabled(t),e.find("#facet")[0].disabled(t),e.find("#facet").parent().hide(),d||s||(n=e.find("#grid")[0],i=e.find("#facet")[0],g.when(o("grids"),o("facets")).then(function(t,e){t[0]&&e[0]&&(d=wpgb_tinymce.settings[2].values.concat(c(t[0])),s=wpgb_tinymce.settings[1].values.concat(c(e[0])),wpgb_tinymce.templates&&wpgb_tinymce.templates.forEach(function(t){d.push({text:t,value:t})}),n.state.data.menu=d,n.settings.values=d,i.state.data.menu=s,i.settings.values=s,wpgb_tinymce.settings[2].values=d,wpgb_tinymce.settings[1].values=s,n&&n.disabled(!1),i&&i.disabled(!1))},function(){s=d=!0}))}),a.addButton("wpgb",{tooltip:"Gridbuilder ᵂᴾ",image:wpgb_tinymce.icon,onclick:function(){a.execCommand("wpgb-grid-shortcode","",{name:""})}})}))})}(jQuery);

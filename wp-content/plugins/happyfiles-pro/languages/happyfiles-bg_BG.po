@@ -1,0 +1,627 @@
+# Copyright (C) 2021 HappyFiles Internationalisation
+# This file is distributed under the same license as the HappyFiles Internationalisation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: HappyFiles Internationalisation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Language: bg\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ../includes/actions.php:66
+#, fuzzy
+msgid "No folder name or term ID provided."
+msgstr "Не е предоставено име на папка или идентификатор на термин."
+
+#: ../includes/data.php:175
+msgid "All Files"
+msgstr "Всички файлове"
+
+#: ../includes/data.php:175
+msgid "All %s"
+msgstr "Всички %s"
+
+#: ../includes/data.php:176
+msgid "Files"
+msgstr "Файлове"
+
+#: ../includes/data.php:168
+#, fuzzy
+msgid "All Plugins"
+msgstr "Всички плъгини"
+
+#: ../includes/data.php:201, ../includes/pro.php:95, ../includes/setup.php:154
+msgid "Uncategorized"
+msgstr "Без категория"
+
+#: ../includes/import.php:143
+#, fuzzy
+msgid "Folders from another media plugin detected to import"
+msgstr "Папки от друга медийна приставка, открити за импортиране"
+
+#: ../includes/import.php:144
+#, fuzzy
+msgid "Import/delete folder data"
+msgstr "Импортиране/изтриване на данни от папки"
+
+#: ../includes/import.php:458, ../includes/import.php:574
+#, fuzzy
+msgid "%s folders imported and %s items categorized."
+msgstr "%s внесени папки и %s категоризирани елементи."
+
+#: ../includes/import.php:461, ../includes/import.php:577
+#, fuzzy
+msgid "View media library"
+msgstr "Преглед на медийната библиотека"
+
+#: ../includes/pro.php:47, ../includes/pro.php:48, ../includes/setup.php:62
+msgid "Folder"
+msgstr "Папка"
+
+#: ../includes/pro.php:49, ../includes/pro.php:51
+#, fuzzy
+msgid "Add new folder"
+msgstr "Добавяне на нова папка"
+
+#: ../includes/pro.php:50
+#, fuzzy
+msgid "Edit folder"
+msgstr "Редактиране на папка"
+
+#: ../includes/pro.php:52
+#, fuzzy
+msgid "Search folder"
+msgstr "Папка за търсене"
+
+#: ../includes/pro.php:53
+msgid "Folder not found"
+msgstr "Папката липсва"
+
+#: ../includes/pro.php:54
+#, fuzzy
+msgid "Folder not found in trash"
+msgstr "Папка не е намерена в кошчето"
+
+#: ../includes/pro.php:94
+#, fuzzy
+msgid "All %s folders"
+msgstr "Всички папки %s"
+
+#: ../includes/settings.php:35
+#, fuzzy
+msgid ""
+"Are you sure you want to delete all your HappyFiles folders, associations, "
+"and settings?"
+msgstr ""
+"Сигурни ли сте, че искате да изтриете всичките си папки, асоциации и "
+"настройки на HappyFiles?"
+
+#: ../includes/settings.php:137
+#, fuzzy
+msgid "No HappyFiles data to delete."
+msgstr "Няма данни от HappyFiles за изтриване."
+
+#: ../includes/settings.php:133
+#, fuzzy
+msgid "HappyFiles data has been deleted."
+msgstr "Данните на HappyFiles са изтрити."
+
+#: ../includes/settings.php:157, ../includes/admin/settings.php:3
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../includes/setup.php:60
+#, fuzzy
+msgid ""
+"Click the \"+\" button above to create your first folder. Then start "
+"dragging items into it. To remove an item from a folder drag it into the "
+"\"Uncategorized\" folder."
+msgstr ""
+"Щракнете върху бутона \"+\" по-горе, за да създадете първата си папка. След "
+"това започнете да плъзгате елементи в нея. За да премахнете елемент от "
+"папка, го плъзнете в папка \"Uncategorized\"."
+
+#: ../includes/setup.php:61
+#, fuzzy
+msgid ""
+"No folders found that match your search criteria. Please try another phrase "
+"or clear your search. Search is case-sensitive."
+msgstr ""
+"Не са намерени папки, които да отговарят на критериите за търсене. Моля, "
+"опитайте с друга фраза или изчистете търсенето си. Търсенето е чувствително "
+"към малки и големи букви."
+
+#: ../includes/setup.php:63, ../includes/shortcode.php:95
+msgid "Folders"
+msgstr "Папки"
+
+#: ../includes/setup.php:64
+msgid "Select"
+msgstr "Избери"
+
+#: ../includes/setup.php:65
+msgid "Create"
+msgstr "Създаване"
+
+#: ../includes/setup.php:66
+msgid "Cancel"
+msgstr "Отказ"
+
+#: ../includes/setup.php:67
+msgid "Rename"
+msgstr "Преименуване"
+
+#: ../includes/setup.php:68
+msgid "Delete"
+msgstr "Изтрий"
+
+#: ../includes/setup.php:69
+msgid "Move"
+msgstr "Премести"
+
+#: ../includes/setup.php:70
+msgid "Search"
+msgstr "Търсене"
+
+#: ../includes/setup.php:71
+msgid "Uploaded"
+msgstr "Качено"
+
+#: ../includes/setup.php:72
+msgid "Sort"
+msgstr "Сортиране"
+
+#: ../includes/setup.php:73
+msgid "Expand"
+msgstr "Разгръщане"
+
+#: ../includes/setup.php:74
+msgid "Collapse"
+msgstr "Свий"
+
+#: ../includes/setup.php:75
+msgid "Details"
+msgstr "Детайли"
+
+#: ../includes/setup.php:76
+#, fuzzy
+msgid "Subfolders"
+msgstr "Подпапки"
+
+#: ../includes/setup.php:77, ../includes/shortcode.php:96
+#, fuzzy
+msgid "Hold down CTRL/CMD to select multiple folders."
+msgstr "Задръжте натиснат бутона CTRL/CMD, за да изберете няколко папки."
+
+#: ../includes/setup.php:79
+#, fuzzy
+msgid "Delete folders"
+msgstr "Изтриване на папки"
+
+#: ../includes/setup.php:80
+#, fuzzy
+msgid "Delete folders & subfolders"
+msgstr "Изтриване на папки и подпапки"
+
+#: ../includes/setup.php:81
+#, fuzzy
+msgid ""
+"Please confirm how you'd like to delete the HappyFiles folders listed below. "
+"All items inside those folders are safe & won't be deleted!"
+msgstr ""
+"Моля, потвърдете как искате да изтриете папките на HappyFiles, изброени по-"
+"долу. Всички елементи в тези папки са безопасни и няма да бъдат изтрити!"
+
+#: ../includes/setup.php:82
+#, fuzzy
+msgid "The selected folders have been deleted."
+msgstr "Избраните папки са изтрити."
+
+#: ../includes/setup.php:83
+#, fuzzy
+msgid ""
+"The selected folder no longer exists. We recommend selecting another folder."
+msgstr ""
+"Избраната папка вече не съществува. Препоръчваме ви да изберете друга папка."
+
+#: ../includes/setup.php:86
+#, fuzzy
+msgid "Click to copy"
+msgstr "Кликнете, за да копирате"
+
+#: ../includes/setup.php:87
+#, fuzzy
+msgid "Gallery shortcode"
+msgstr "Галерия shortcode"
+
+#: ../includes/setup.php:88
+msgid "Default"
+msgstr "По подразбиране"
+
+#: ../includes/setup.php:89, ../includes/shortcode.php:91
+msgid "Columns"
+msgstr "Колони"
+
+#: ../includes/setup.php:90, ../includes/shortcode.php:92
+msgid "Max items"
+msgstr "Макс. елементи"
+
+#: ../includes/setup.php:91, ../includes/shortcode.php:93
+msgid "Height"
+msgstr "Височина"
+
+#: ../includes/setup.php:92, ../includes/shortcode.php:94
+msgid "Spacing"
+msgstr "Разстояние"
+
+#: ../includes/setup.php:93, ../includes/shortcode.php:99
+msgid "Order by"
+msgstr "Подредба по"
+
+#: ../includes/setup.php:94, ../includes/shortcode.php:100
+msgid "Order"
+msgstr "Поръчка"
+
+#: ../includes/setup.php:95, ../includes/shortcode.php:97
+msgid "Image size"
+msgstr "Размер на снимката"
+
+#: ../includes/setup.php:96, ../includes/shortcode.php:98
+msgid "Link to"
+msgstr "Връзка към"
+
+#: ../includes/setup.php:97, ../includes/shortcode.php:101
+#, fuzzy
+msgid "Include subfolder"
+msgstr "Включване на подпапка"
+
+#: ../includes/setup.php:98, ../includes/shortcode.php:102
+msgid "Caption"
+msgstr "Надпис"
+
+#: ../includes/setup.php:99, ../includes/setup.php:100,
+#: ../includes/setup.php:101, ../includes/setup.php:102,
+#: ../includes/shortcode.php:103, ../includes/shortcode.php:104,
+#: ../includes/shortcode.php:105, ../includes/shortcode.php:106
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../includes/setup.php:100, ../includes/shortcode.php:104
+msgid "Fullscreen"
+msgstr "Цял екран"
+
+#: ../includes/setup.php:101, ../includes/shortcode.php:105
+msgid "Thumbnails"
+msgstr "Миниатюри"
+
+#: ../includes/setup.php:102, ../includes/shortcode.php:106
+msgid "Zoom"
+msgstr "Приближаване"
+
+#: ../includes/setup.php:105
+msgid "Date"
+msgstr "Дата"
+
+#: ../includes/setup.php:106
+msgid "Author"
+msgstr "Автор"
+
+#: ../includes/setup.php:107
+msgid "Name"
+msgstr "Име"
+
+#: ../includes/setup.php:108
+msgid "Title"
+msgstr "Заглавие"
+
+#: ../includes/setup.php:109
+msgid "Type"
+msgstr "Тип"
+
+#: ../includes/setup.php:110
+msgid "Modified"
+msgstr "Променено"
+
+#: ../includes/setup.php:111
+msgid "Random"
+msgstr "Произволно"
+
+#: ../includes/setup.php:112, ../includes/shortcode.php:141
+msgid "None"
+msgstr "Липсва"
+
+#: ../includes/setup.php:113, ../includes/pro/filesizes.php:27
+msgid "File size"
+msgstr "Размер на файл"
+
+#: ../includes/setup.php:116
+msgid "Descending"
+msgstr "Низходящо"
+
+#: ../includes/setup.php:117
+msgid "Ascending"
+msgstr "Възходящо"
+
+#: ../includes/setup.php:120
+msgid "Attachment"
+msgstr "Прикачен файл"
+
+#: ../includes/setup.php:121
+msgid "Media"
+msgstr "Медия"
+
+#: ../includes/setup.php:148
+#, fuzzy
+msgid "Optional: Assign a folder to your uploaded file(s):"
+msgstr "По избор: Задайте папка на качените от вас файлове:"
+
+#: ../includes/shortcode.php:88
+msgid "Gallery"
+msgstr "Галерия"
+
+#: ../includes/shortcode.php:89
+#, fuzzy
+msgid "Display your images in a beautiful gallery."
+msgstr "Покажете изображенията си в красива галерия."
+
+#: ../includes/shortcode.php:90
+#, fuzzy
+msgid "Gallery settings"
+msgstr "Настройки на галерията"
+
+#: ../includes/shortcode.php:132
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: ../includes/shortcode.php:133
+msgid "Medium"
+msgstr "Среден"
+
+#: ../includes/shortcode.php:134
+msgid "Large"
+msgstr "Голям"
+
+#: ../includes/shortcode.php:135
+msgid "Full size"
+msgstr "Пълен размер"
+
+#: ../includes/shortcode.php:139
+#, fuzzy
+msgid "Attachment page"
+msgstr "Прикачена страница"
+
+#: ../includes/shortcode.php:140
+msgid "Media file"
+msgstr "Медия файл"
+
+#: ../includes/shortcode.php:330
+#, fuzzy
+msgid "No folder selected."
+msgstr "Не е избрана папка."
+
+#: ../includes/shortcode.php:354
+#, fuzzy
+msgid "The selected folder has no items."
+msgstr "В избраната папка няма елементи."
+
+#: ../includes/user.php:95, ../includes/admin/settings.php:71
+#, fuzzy
+msgid "Folder access"
+msgstr "Достъп до папка"
+
+#: ../includes/user.php:98, ../includes/admin/settings.php:92
+#, fuzzy
+msgid "View folders"
+msgstr "Преглед на папки"
+
+#: ../includes/user.php:99, ../includes/admin/settings.php:91
+#, fuzzy
+msgid "Full access"
+msgstr "Пълен достъп"
+
+#: ../includes/user.php:100, ../includes/admin/settings.php:93
+#, fuzzy
+msgid "No access"
+msgstr "Няма достъп"
+
+#: ../includes/user.php:106, ../includes/pro/settings.php:261
+#, fuzzy
+msgid "SVG support"
+msgstr "Поддръжка на SVG"
+
+#: ../includes/user.php:110
+#, fuzzy
+msgid "Enable SVG uploads, preview, and sanitization"
+msgstr "Разрешаване на качването на SVG, визуализация и почистване"
+
+#: ../includes/admin/settings.php:6
+msgid "General"
+msgstr "Основни"
+
+#: ../includes/admin/settings.php:7
+#, fuzzy
+msgid "Permissions"
+msgstr "Разрешения"
+
+#: ../includes/admin/settings.php:8, ../includes/admin/settings.php:128
+msgid "Import"
+msgstr "Импорт"
+
+#: ../includes/admin/settings.php:20, ../includes/admin/settings.php:25
+#, fuzzy
+msgid "Assign multiple folders"
+msgstr "Присвояване на няколко папки"
+
+#: ../includes/admin/settings.php:28
+#, fuzzy
+msgid ""
+"When enabled you can assign multiple folders to one item. If disabled an "
+"item can only be assigned to one folder."
+msgstr ""
+"Когато е разрешено, можете да присвоите няколко папки към един елемент. Ако "
+"е деактивирано, даден елемент може да бъде назначен само към една папка."
+
+#: ../includes/admin/settings.php:34, ../includes/admin/settings.php:39
+#, fuzzy
+msgid "Remove from all folders"
+msgstr "Премахване от всички папки"
+
+#: ../includes/admin/settings.php:42
+#, fuzzy
+msgid ""
+"When enabled removing an item from a folder removes it from all other "
+"folders. If disabled the item will only be removed from the open folder."
+msgstr ""
+"Когато е разрешено, премахването на елемент от дадена папка го премахва от "
+"всички други папки. Ако е забранено, елементът ще бъде премахнат само от "
+"отворената папка."
+
+#: ../includes/admin/settings.php:48, ../includes/admin/settings.php:53
+msgid "Infinite scrolling"
+msgstr "Infinite scrolling"
+
+#: ../includes/admin/settings.php:56
+#, fuzzy
+msgid ""
+"When enabled the media library uses infinite scrolling instead of the new "
+"\"Load more\" button (that was introduces in WordPress 5.8)."
+msgstr ""
+"Когато е активирана, мултимедийната библиотека използва безкрайно превъртане "
+"вместо новия бутон \"Зареди още\" (който беше въведен в WordPress 5.8)."
+
+#: ../includes/admin/settings.php:72
+#, fuzzy
+msgid ""
+"Set folder access level per user role. Set folder access for individual user "
+"on user profile page."
+msgstr ""
+"Задаване на ниво на достъп до папки за всяка потребителска роля. Задаване на "
+"достъп до папки за отделен потребител на страницата на потребителския профил."
+
+#: ../includes/admin/settings.php:131
+#, fuzzy
+msgid "No folders found to import."
+msgstr "Не са намерени папки за импортиране."
+
+#: ../includes/admin/settings.php:122
+#, fuzzy
+msgid "%s folders with %s associated items found to import."
+msgstr "Намерени са %s папки с %s свързани елементи за импортиране."
+
+#: ../includes/admin/settings.php:129, ../includes/admin/settings.php:144
+#, fuzzy
+msgid "Delete plugin data"
+msgstr "Изтриване на данни за плъгини"
+
+#: ../includes/admin/settings.php:143
+msgid "Save changes"
+msgstr "Запази промените"
+
+#: ../includes/pro/settings.php:61
+#, fuzzy
+msgid "License key deletion failed."
+msgstr "Изтриването на лицензионния ключ е неуспешно."
+
+#: ../includes/pro/settings.php:59
+#, fuzzy
+msgid "License key has been removed."
+msgstr "Лицензионният ключ е премахнат."
+
+#: ../includes/pro/settings.php:123
+#, fuzzy
+msgid "One click updates"
+msgstr "Актуализации с едно кликване"
+
+#: ../includes/pro/settings.php:139
+#, fuzzy
+msgid ""
+"Paste your license key from your %s in here to enable one-click plugin "
+"updates and notifications."
+msgstr ""
+"Поставете тук лицензионния си ключ от вашия %s, за да активирате "
+"актуализациите и известията за плъгини с едно кликване."
+
+#: ../includes/pro/settings.php:139
+#, fuzzy
+msgid "HappyFiles account"
+msgstr "Акаунт в HappyFiles"
+
+#: ../includes/pro/settings.php:135
+#, fuzzy
+msgid "Deactivate license"
+msgstr "Деактивиране на лиценза"
+
+#: ../includes/pro/settings.php:156
+msgid "Post Types"
+msgstr "Видове публикации"
+
+#: ../includes/pro/settings.php:166
+msgid "Plugins"
+msgstr "Плъгини"
+
+#: ../includes/pro/settings.php:199, ../includes/pro/settings.php:209
+#, fuzzy
+msgid "Disable in media library"
+msgstr "Деактивиране в медийната библиотека"
+
+#: ../includes/pro/settings.php:222, ../includes/pro/settings.php:228
+#, fuzzy
+msgid "Sort by file size"
+msgstr "Сортиране по размер на файла"
+
+#: ../includes/pro/settings.php:231
+#, fuzzy
+msgid "When enabled you can sort your attachments by file size."
+msgstr "Когато е разрешено, можете да сортирате прикачените файлове по размер."
+
+#: ../includes/pro/settings.php:244
+#, fuzzy
+msgid "Regenerate file sizes"
+msgstr "Регенериране на размерите на файловете"
+
+#: ../includes/pro/settings.php:263
+#, fuzzy
+msgid ""
+"Enable/disable SVG upload, preview & sanitization per user role. Set SVG "
+"support for individual user on user profile page."
+msgstr ""
+"Активиране/деактивиране на SVG качването, визуализацията и санитарната "
+"обработка за всяка потребителска роля. Задайте поддръжка на SVG за отделен "
+"потребител в страницата с потребителския профил."
+
+#: ../includes/pro/settings.php:264
+#, fuzzy
+msgid ""
+"Upload SVG files only from trusted sources as they can contain and execute "
+"malicious XML code."
+msgstr ""
+"Качвайте SVG файлове само от надеждни източници, тъй като те могат да "
+"съдържат и изпълняват зловреден XML код."
+
+#: ../includes/pro/settings.php:283
+msgid "Disabled"
+msgstr "Изключено"
+
+#: ../includes/pro/settings.php:284
+msgid "Enabled"
+msgstr "Разрешен"
+
+#: ../includes/pro/svg.php:137
+#, fuzzy
+msgid ""
+"This file couldn't be sanitized for security reasons and wasn't uploaded."
+msgstr ""
+"Този файл не може да бъде обработен от съображения за сигурност и не е качен."

@@ -1,0 +1,568 @@
+# Copyright (C) 2021 HappyFiles Internationalisation
+# This file is distributed under the same license as the HappyFiles Internationalisation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: HappyFiles Internationalisation\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3\n"
+"Last-Translator: \n"
+"Language: pt\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ../includes/actions.php:66
+msgid "No folder name or term ID provided."
+msgstr "Nenhum nome de pasta ou termo de identificação fornecido."
+
+#: ../includes/data.php:175
+msgid "All Files"
+msgstr "Todos os Arquivos"
+
+#: ../includes/data.php:175
+msgid "All %s"
+msgstr "Todos %s"
+
+#: ../includes/data.php:176
+msgid "Files"
+msgstr "Arquivos"
+
+#: ../includes/data.php:168
+msgid "All Plugins"
+msgstr "Todos os Plugins"
+
+#: ../includes/data.php:201, ../includes/pro.php:95, ../includes/setup.php:141
+msgid "Uncategorized"
+msgstr "Sem categoria"
+
+#: ../includes/import.php:143
+msgid "Folders from another media plugin detected to import"
+msgstr "Pastas de outro plugin de mídia detectado para importação"
+
+#: ../includes/import.php:144
+msgid "Import/delete folder data"
+msgstr "Importar/apagar dados da pasta"
+
+#: ../includes/import.php:458, ../includes/import.php:574
+msgid "%s folders imported and %s items categorized."
+msgstr "%s pastas importadas e %s itens categorizados."
+
+#: ../includes/import.php:461, ../includes/import.php:577
+msgid "View media library"
+msgstr "Ver mediateca"
+
+#: ../includes/pro.php:47, ../includes/pro.php:48, ../includes/setup.php:49
+msgid "Folder"
+msgstr "Pasta"
+
+#: ../includes/pro.php:49, ../includes/pro.php:51
+msgid "Add new folder"
+msgstr "Adicionar nova pasta"
+
+#: ../includes/pro.php:50
+msgid "Edit folder"
+msgstr "Editar pasta"
+
+#: ../includes/pro.php:52
+msgid "Search folder"
+msgstr "Pasta de busca"
+
+#: ../includes/pro.php:53
+msgid "Folder not found"
+msgstr "Pasta não encontrada"
+
+#: ../includes/pro.php:54
+msgid "Folder not found in trash"
+msgstr "Pasta não encontrada no lixo"
+
+#: ../includes/pro.php:94
+msgid "All %s folders"
+msgstr "Todas as pastas %s"
+
+#: ../includes/settings.php:35
+msgid ""
+"Are you sure you want to delete all your HappyFiles folders, associations, "
+"and settings?"
+msgstr ""
+"Você tem certeza de que quer apagar todas as pastas, associações e "
+"configurações do seu HappyFiles?"
+
+#: ../includes/settings.php:137
+msgid "No HappyFiles data to delete."
+msgstr "Não há dados do HappyFiles para apagar."
+
+#: ../includes/settings.php:133
+msgid "HappyFiles data has been deleted."
+msgstr "Os dados do HappyFiles foram excluídos."
+
+#: ../includes/settings.php:157, ../includes/admin/settings.php:3
+msgid "Settings"
+msgstr "Definições"
+
+#: ../includes/setup.php:47
+msgid ""
+"Click the \"+\" button above to create your first folder. Then start "
+"dragging items into it. To remove an item from a folder drag it into the "
+"\"Uncategorized\" folder."
+msgstr ""
+"Clique no botão \"+\" acima para criar sua primeira pasta. Em seguida, "
+"comece a arrastar os itens para dentro dela. Para remover um item de uma "
+"pasta, arraste-o para a pasta \"Uncategorized\"."
+
+#: ../includes/setup.php:48
+msgid ""
+"No folders found that match your search criteria. Please try another phrase "
+"or clear your search. Search is case-sensitive."
+msgstr ""
+"Não foram encontradas pastas que correspondam aos seus critérios de busca. "
+"Por favor, tente outra frase ou limpe sua busca. A busca é sensível a "
+"maiúsculas e minúsculas."
+
+#: ../includes/setup.php:50, ../includes/shortcode.php:95
+msgid "Folders"
+msgstr "Pastas"
+
+#: ../includes/setup.php:51
+msgid "Select"
+msgstr "Selecionar"
+
+#: ../includes/setup.php:52
+msgid "Create"
+msgstr "Criar"
+
+#: ../includes/setup.php:53
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../includes/setup.php:54
+msgid "Rename"
+msgstr "Renomear"
+
+#: ../includes/setup.php:55
+msgid "Delete"
+msgstr "Excluir"
+
+#: ../includes/setup.php:56
+msgid "Move"
+msgstr "Mover"
+
+#: ../includes/setup.php:57
+msgid "Search"
+msgstr "Pesquisar"
+
+#: ../includes/setup.php:58
+msgid "Uploaded"
+msgstr "Carregado"
+
+#: ../includes/setup.php:59
+msgid "Sort"
+msgstr "Ordenar"
+
+#: ../includes/setup.php:60
+msgid "Expand"
+msgstr "Expandir"
+
+#: ../includes/setup.php:61
+msgid "Collapse"
+msgstr "Diminuir"
+
+#: ../includes/setup.php:62
+msgid "Details"
+msgstr "Detalhes"
+
+#: ../includes/setup.php:63
+msgid "Subfolders"
+msgstr "Subpastas"
+
+#: ../includes/setup.php:64, ../includes/shortcode.php:96
+msgid "Hold down CTRL/CMD to select multiple folders."
+msgstr "Segure CTRL/CMD para selecionar múltiplas pastas."
+
+#: ../includes/setup.php:66
+msgid "Delete folders"
+msgstr "Apagar pastas"
+
+#: ../includes/setup.php:67
+msgid "Delete folders & subfolders"
+msgstr "Apagar pastas e subpastas"
+
+#: ../includes/setup.php:68
+msgid ""
+"Please confirm how you'd like to delete the HappyFiles folders listed below. "
+"All items inside those folders are safe & won't be deleted!"
+msgstr ""
+"Por favor, confirme como você gostaria de excluir as pastas do HappyFiles "
+"listadas abaixo. Todos os itens dentro dessas pastas são seguros e não serão "
+"deletados!"
+
+#: ../includes/setup.php:69
+msgid "The selected folders have been deleted."
+msgstr "As pastas selecionadas foram apagadas."
+
+#: ../includes/setup.php:70
+msgid ""
+"The selected folder no longer exists. We recommend selecting another folder."
+msgstr ""
+"A pasta selecionada não existe mais. Recomendamos a seleção de outra pasta."
+
+#: ../includes/setup.php:73
+msgid "Click to copy"
+msgstr "Clique para copiar"
+
+#: ../includes/setup.php:74
+msgid "Gallery shortcode"
+msgstr "Galeria de atalhos"
+
+#: ../includes/setup.php:75
+msgid "Default"
+msgstr "Padrão"
+
+#: ../includes/setup.php:76, ../includes/shortcode.php:91
+msgid "Columns"
+msgstr "Colunas"
+
+#: ../includes/setup.php:77, ../includes/shortcode.php:92
+msgid "Max items"
+msgstr "Itens máximos"
+
+#: ../includes/setup.php:78, ../includes/shortcode.php:93
+msgid "Height"
+msgstr "Altura"
+
+#: ../includes/setup.php:79, ../includes/shortcode.php:94
+msgid "Spacing"
+msgstr "Espaçamento"
+
+#: ../includes/setup.php:80, ../includes/shortcode.php:99
+msgid "Order by"
+msgstr "Ordenar por"
+
+#: ../includes/setup.php:81, ../includes/shortcode.php:100
+msgid "Order"
+msgstr "Ordenar"
+
+#: ../includes/setup.php:82, ../includes/shortcode.php:97
+msgid "Image size"
+msgstr "Tamanho da imagem"
+
+#: ../includes/setup.php:83, ../includes/shortcode.php:98
+msgid "Link to"
+msgstr "Link para"
+
+#: ../includes/setup.php:84, ../includes/shortcode.php:101
+msgid "Include subfolder"
+msgstr "Incluir subpasta"
+
+#: ../includes/setup.php:85, ../includes/shortcode.php:102
+msgid "Caption"
+msgstr "Legenda"
+
+#: ../includes/setup.php:86, ../includes/setup.php:87,
+#: ../includes/setup.php:88, ../includes/setup.php:89,
+#: ../includes/shortcode.php:103, ../includes/shortcode.php:104,
+#: ../includes/shortcode.php:105, ../includes/shortcode.php:106
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../includes/setup.php:87, ../includes/shortcode.php:104
+msgid "Fullscreen"
+msgstr "Tela Cheia"
+
+#: ../includes/setup.php:88, ../includes/shortcode.php:105
+msgid "Thumbnails"
+msgstr "Miniaturas"
+
+#: ../includes/setup.php:89, ../includes/shortcode.php:106
+msgid "Zoom"
+msgstr "Zoom"
+
+#: ../includes/setup.php:92
+msgid "Date"
+msgstr "Data"
+
+#: ../includes/setup.php:93
+msgid "Author"
+msgstr "Autor"
+
+#: ../includes/setup.php:94
+msgid "Name"
+msgstr "Nome"
+
+#: ../includes/setup.php:95
+msgid "Title"
+msgstr "Título"
+
+#: ../includes/setup.php:96
+msgid "Type"
+msgstr "Tipo"
+
+#: ../includes/setup.php:97
+msgid "Modified"
+msgstr "Modificado"
+
+#: ../includes/setup.php:98
+msgid "Random"
+msgstr "Aleatório"
+
+#: ../includes/setup.php:99, ../includes/shortcode.php:141
+msgid "None"
+msgstr "Nenhum"
+
+#: ../includes/setup.php:100, ../includes/pro/filesizes.php:27
+msgid "File size"
+msgstr "Tamanho máximo de upload do arquivo PHP"
+
+#: ../includes/setup.php:103
+msgid "Descending"
+msgstr "Descendente"
+
+#: ../includes/setup.php:104
+msgid "Ascending"
+msgstr "Ascendente"
+
+#: ../includes/setup.php:107
+msgid "Attachment"
+msgstr "Anexo"
+
+#: ../includes/setup.php:108
+msgid "Media"
+msgstr "Média"
+
+#: ../includes/setup.php:135
+msgid "Optional: Assign a folder to your uploaded file(s):"
+msgstr "Opcional: Atribua uma pasta a seu(s) arquivo(s) carregado(s):"
+
+#: ../includes/shortcode.php:88
+msgid "Gallery"
+msgstr "Galeria"
+
+#: ../includes/shortcode.php:89
+msgid "Display your images in a beautiful gallery."
+msgstr "Mostre suas imagens em uma bela galeria."
+
+#: ../includes/shortcode.php:90
+msgid "Gallery settings"
+msgstr "Configurações da Gallery "
+
+#: ../includes/shortcode.php:132
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: ../includes/shortcode.php:133
+msgid "Medium"
+msgstr "Médio"
+
+#: ../includes/shortcode.php:134
+msgid "Large"
+msgstr "Grande"
+
+#: ../includes/shortcode.php:135
+msgid "Full size"
+msgstr "Tamanho completo"
+
+#: ../includes/shortcode.php:139
+msgid "Attachment page"
+msgstr "Página de anexo"
+
+#: ../includes/shortcode.php:140
+msgid "Media file"
+msgstr "Arquivo de Mídia"
+
+#: ../includes/shortcode.php:330
+msgid "No folder selected."
+msgstr "Nenhuma pasta selecionada."
+
+#: ../includes/shortcode.php:354
+msgid "The selected folder has no items."
+msgstr "A pasta selecionada não tem itens."
+
+#: ../includes/user.php:95, ../includes/admin/settings.php:71
+msgid "Folder access"
+msgstr "Acesso à pasta"
+
+#: ../includes/user.php:98, ../includes/admin/settings.php:92
+msgid "View folders"
+msgstr "Ver pastas"
+
+#: ../includes/user.php:99, ../includes/admin/settings.php:91
+msgid "Full access"
+msgstr "Acesso completo"
+
+#: ../includes/user.php:100, ../includes/admin/settings.php:93
+msgid "No access"
+msgstr "Sem acesso"
+
+#: ../includes/user.php:106, ../includes/pro/settings.php:261
+msgid "SVG support"
+msgstr "Suporte SVG"
+
+#: ../includes/user.php:110
+msgid "Enable SVG uploads, preview, and sanitization"
+msgstr "Permitir o upload, pré-visualização e higienização de SVG"
+
+#: ../includes/admin/settings.php:6
+msgid "General"
+msgstr "Geral"
+
+#: ../includes/admin/settings.php:7
+msgid "Permissions"
+msgstr "Permissões"
+
+#: ../includes/admin/settings.php:8, ../includes/admin/settings.php:128
+msgid "Import"
+msgstr "Importar"
+
+#: ../includes/admin/settings.php:20, ../includes/admin/settings.php:25
+msgid "Assign multiple folders"
+msgstr "Atribuir múltiplas pastas"
+
+#: ../includes/admin/settings.php:28
+msgid ""
+"When enabled you can assign multiple folders to one item. If disabled an "
+"item can only be assigned to one folder."
+msgstr ""
+"Quando ativado, você pode atribuir várias pastas a um item. Se desabilitado, "
+"um item só pode ser atribuído a uma pasta."
+
+#: ../includes/admin/settings.php:34, ../includes/admin/settings.php:39
+msgid "Remove from all folders"
+msgstr "Remover de todas as pastas"
+
+#: ../includes/admin/settings.php:42
+msgid ""
+"When enabled removing an item from a folder removes it from all other "
+"folders. If disabled the item will only be removed from the open folder."
+msgstr ""
+"Quando ativado, a remoção de um item de uma pasta o remove de todas as "
+"outras pastas. Se desativado, o item só será removido da pasta aberta."
+
+#: ../includes/admin/settings.php:48, ../includes/admin/settings.php:53
+msgid "Infinite scrolling"
+msgstr "Rolagem infinita"
+
+#: ../includes/admin/settings.php:56
+msgid ""
+"When enabled the media library uses infinite scrolling instead of the new "
+"\"Load more\" button (that was introduces in WordPress 5.8)."
+msgstr ""
+"Quando ativada, a biblioteca de mídia usa rolagem infinita em vez do novo "
+"botão \"Load more\" (que foi introduzido no WordPress 5.8)."
+
+#: ../includes/admin/settings.php:72
+msgid ""
+"Set folder access level per user role. Set folder access for individual user "
+"on user profile page."
+msgstr ""
+"Definir o nível de acesso à pasta por função do usuário. Definir o nível de "
+"acesso à pasta por usuário individual na página de perfil do usuário."
+
+#: ../includes/admin/settings.php:131
+msgid "No folders found to import."
+msgstr "Não foram encontradas pastas para importação."
+
+#: ../includes/admin/settings.php:122
+msgid "%s folders with %s associated items found to import."
+msgstr "%s pastas com %s itens associados encontrados para importação."
+
+#: ../includes/admin/settings.php:129, ../includes/admin/settings.php:144
+msgid "Delete plugin data"
+msgstr "Eliminar dados de plugin"
+
+#: ../includes/admin/settings.php:143
+msgid "Save changes"
+msgstr "Salvar alterações"
+
+#: ../includes/pro/settings.php:61
+msgid "License key deletion failed."
+msgstr "A eliminação da chave de licença falhou."
+
+#: ../includes/pro/settings.php:59
+msgid "License key has been removed."
+msgstr "A chave de licença foi removida."
+
+#: ../includes/pro/settings.php:123
+msgid "One click updates"
+msgstr "Atualizações com um clique"
+
+#: ../includes/pro/settings.php:139
+msgid ""
+"Paste your license key from your %s in here to enable one-click plugin "
+"updates and notifications."
+msgstr ""
+"Cole sua chave de licença de seu %s aqui para permitir atualizações e "
+"notificações de plugins com um clique."
+
+#: ../includes/pro/settings.php:139
+msgid "HappyFiles account"
+msgstr "Conta HappyFiles"
+
+#: ../includes/pro/settings.php:135
+msgid "Deactivate license"
+msgstr "Desativar licença"
+
+#: ../includes/pro/settings.php:156
+msgid "Post Types"
+msgstr "Tipos de Post"
+
+#: ../includes/pro/settings.php:166
+msgid "Plugins"
+msgstr "Plugins"
+
+#: ../includes/pro/settings.php:199, ../includes/pro/settings.php:209
+msgid "Disable in media library"
+msgstr "Desativar na biblioteca de mídia"
+
+#: ../includes/pro/settings.php:222, ../includes/pro/settings.php:228
+msgid "Sort by file size"
+msgstr "Ordenar por tamanho de arquivo"
+
+#: ../includes/pro/settings.php:231
+msgid "When enabled you can sort your attachments by file size."
+msgstr ""
+"Quando ativado, você pode classificar seus anexos por tamanho de arquivo."
+
+#: ../includes/pro/settings.php:244
+msgid "Regenerate file sizes"
+msgstr "Regenerar os tamanhos dos arquivos"
+
+#: ../includes/pro/settings.php:263
+msgid ""
+"Enable/disable SVG upload, preview & sanitization per user role. Set SVG "
+"support for individual user on user profile page."
+msgstr ""
+"Habilitar/desabilitar o upload, visualização e higienização do SVG por "
+"função do usuário. Definir o suporte SVG para usuário individual na página "
+"de perfil do usuário."
+
+#: ../includes/pro/settings.php:264
+msgid ""
+"Upload SVG files only from trusted sources as they can contain and execute "
+"malicious XML code."
+msgstr ""
+"Carregar arquivos SVG somente de fontes confiáveis, pois eles podem conter e "
+"executar código XML malicioso."
+
+#: ../includes/pro/settings.php:283
+msgid "Disabled"
+msgstr "Desativado"
+
+#: ../includes/pro/settings.php:284
+msgid "Enabled"
+msgstr "Ativado"
+
+#: ../includes/pro/svg.php:137
+msgid ""
+"This file couldn't be sanitized for security reasons and wasn't uploaded."
+msgstr ""
+"Este arquivo não pôde ser higienizado por razões de segurança e não foi "
+"carregado."

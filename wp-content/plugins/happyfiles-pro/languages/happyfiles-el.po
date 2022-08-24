@@ -1,0 +1,586 @@
+# Copyright (C) 2021 HappyFiles Internationalisation
+# This file is distributed under the same license as the HappyFiles Internationalisation package.
+msgid ""
+msgstr ""
+"Project-Id-Version: HappyFiles Internationalisation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ../includes/actions.php:67
+msgid "No folder name or term ID provided."
+msgstr "Δεν παρέχεται όνομα φακέλου ή αναγνωριστικό όρου."
+
+#: ../includes/data.php:186
+msgid "All Files"
+msgstr "Όλα τα αρχεία"
+
+#: ../includes/data.php:186
+msgid "All %s"
+msgstr "Όλα τα %s"
+
+#: ../includes/data.php:187
+msgid "Files"
+msgstr "Αρχεία"
+
+#: ../includes/data.php:179
+msgid "All Plugins"
+msgstr "Όλα τα Plugins"
+
+#: ../includes/data.php:212, ../includes/pro.php:95, ../includes/setup.php:154
+msgid "Uncategorized"
+msgstr "Καμία κατηγορία"
+
+#: ../includes/import.php:143
+msgid "Folders from another media plugin detected to import"
+msgstr "Εντοπίστηκαν φάκελοι από άλλο πρόσθετο πολυμέσων για εισαγωγή"
+
+#: ../includes/import.php:144
+msgid "Import/delete folder data"
+msgstr "Εισαγωγή/διαγραφή δεδομένων φακέλου"
+
+#: ../includes/import.php:458, ../includes/import.php:574
+msgid "%s folders imported and %s items categorized."
+msgstr "%s φάκελοι έχουν εισαχθεί και %s αντικείμενα έχουν κατηγοριοποιηθεί."
+
+#: ../includes/import.php:461, ../includes/import.php:577
+msgid "View media library"
+msgstr "Προβολή βιβλιοθήκης πολυμέσων"
+
+#: ../includes/pro.php:47, ../includes/pro.php:48, ../includes/setup.php:62
+msgid "Folder"
+msgstr "Φάκελος"
+
+#: ../includes/pro.php:49, ../includes/pro.php:51
+msgid "Add new folder"
+msgstr "Προσθήκη νέου φακέλου"
+
+#: ../includes/pro.php:50
+msgid "Edit folder"
+msgstr "Επεξεργασία φακέλου"
+
+#: ../includes/pro.php:52
+msgid "Search folder"
+msgstr "Αναζήτηση φακέλου"
+
+#: ../includes/pro.php:53
+msgid "Folder not found"
+msgstr "Ο φάκελος δεν βρέθηκε"
+
+#: ../includes/pro.php:54
+msgid "Folder not found in trash"
+msgstr "Ο φάκελος δεν βρέθηκε στα σκουπίδια"
+
+#: ../includes/pro.php:94
+msgid "All %s folders"
+msgstr "Όλοι οι %S φάκελοι"
+
+#: ../includes/settings.php:35
+msgid ""
+"Are you sure you want to delete all your HappyFiles folders, associations, "
+"and settings?"
+msgstr ""
+"Είστε σίγουροι ότι θέλετε να διαγράψετε όλους τους φακέλους, τις συσχετίσεις "
+"και τις ρυθμίσεις του HappyFiles"
+
+#: ../includes/settings.php:137
+msgid "No HappyFiles data to delete."
+msgstr "Δεν υπάρχουν δεδομένα του HappyFiles προς διαγραφή."
+
+#: ../includes/settings.php:133
+msgid "HappyFiles data has been deleted."
+msgstr "Τα δεδομένα του HappyFiles έχουν διαγραφεί."
+
+#: ../includes/settings.php:157, ../includes/admin/settings.php:3
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: ../includes/setup.php:60
+msgid ""
+"Click the \"+\" button above to create your first folder. Then start "
+"dragging items into it. To remove an item from a folder drag it into the "
+"\"Uncategorized\" folder."
+msgstr ""
+"Κάντε κλικ στο κουμπί \"+\" παραπάνω για να δημιουργήσετε τον πρώτο σας "
+"φάκελο. Στη συνέχεια, αρχίστε να σέρνετε αντικείμενα σε αυτόν. Για να "
+"αφαιρέσετε ένα στοιχείο από ένα φάκελο, σύρετέ το στο φάκελο \"Καμία "
+"κατηγορία\"."
+
+#: ../includes/setup.php:61
+msgid ""
+"No folders found that match your search criteria. Please try another phrase "
+"or clear your search. Search is case-sensitive."
+msgstr ""
+"Δεν βρέθηκαν φάκελοι που να ταιριάζουν με τα κριτήρια αναζήτησής σας. "
+"Παρακαλώ δοκιμάστε άλλη φράση ή διαγράψτε την αναζήτησή σας. Η αναζήτηση "
+"είναι ευαίσθητη σε πεζά-κεφαλαία."
+
+#: ../includes/setup.php:63, ../includes/shortcode.php:95
+msgid "Folders"
+msgstr "Φάκελοι"
+
+#: ../includes/setup.php:64
+msgid "Select"
+msgstr "Επιλογή"
+
+#: ../includes/setup.php:65
+msgid "Create"
+msgstr "Δημιουργία"
+
+#: ../includes/setup.php:66
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: ../includes/setup.php:67
+msgid "Rename"
+msgstr "Μετονομασία"
+
+#: ../includes/setup.php:68
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: ../includes/setup.php:69
+msgid "Move"
+msgstr "Μετακίνηση"
+
+#: ../includes/setup.php:70
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: ../includes/setup.php:71
+msgid "Uploaded"
+msgstr "Μεταφορτώθηκε"
+
+#: ../includes/setup.php:72
+msgid "Sort"
+msgstr "Ταξινόμηση"
+
+#: ../includes/setup.php:73
+msgid "Expand"
+msgstr "Επέκταση"
+
+#: ../includes/setup.php:74
+msgid "Collapse"
+msgstr "Σύμπτηξη"
+
+#: ../includes/setup.php:75
+msgid "Details"
+msgstr "Λεπτομέρειες"
+
+#: ../includes/setup.php:76
+msgid "Subfolders"
+msgstr "Υποφάκελοι"
+
+#: ../includes/setup.php:77, ../includes/shortcode.php:96
+msgid "Hold down CTRL/CMD to select multiple folders."
+msgstr "Κρατήστε πατημένο το CTRL/CMD για να επιλέξετε πολλούς φακέλους."
+
+#: ../includes/setup.php:79
+msgid "Delete folders"
+msgstr "Διαγραφή φακέλων"
+
+#: ../includes/setup.php:80
+msgid "Delete folders & subfolders"
+msgstr "Διαγραφή φακέλων & υποφακέλων"
+
+#: ../includes/setup.php:81
+msgid ""
+"Please confirm how you'd like to delete the HappyFiles folders listed below. "
+"All items inside those folders are safe & won't be deleted!"
+msgstr ""
+"Επιβεβαιώστε ότι επιθυμείτε να διαγράψετε τους φακέλους HappyFiles που "
+"αναφέρονται παρακάτω. Όλα τα στοιχεία μέσα σε αυτούς τους φακέλους είναι "
+"ασφαλή και δεν θα διαγραφούν!"
+
+#: ../includes/setup.php:82
+msgid "The selected folders have been deleted."
+msgstr "Οι επιλεγμένοι φάκελοι έχουν διαγραφεί."
+
+#: ../includes/setup.php:83
+msgid ""
+"The selected folder no longer exists. We recommend selecting another folder."
+msgstr ""
+"Ο επιλεγμένος φάκελος δεν υπάρχει πλέον. Συνιστούμε να επιλέξετε έναν άλλο "
+"φάκελο."
+
+#: ../includes/setup.php:86
+msgid "Click to copy"
+msgstr "Κάντε κλικ για αντιγραφή"
+
+#: ../includes/setup.php:87
+msgid "Gallery shortcode"
+msgstr "Σύντομος κωδικός γκάλερι"
+
+#: ../includes/setup.php:88
+msgid "Default"
+msgstr "Προεπιλογή"
+
+#: ../includes/setup.php:89, ../includes/shortcode.php:91
+msgid "Columns"
+msgstr "Στήλες"
+
+#: ../includes/setup.php:90, ../includes/shortcode.php:92
+msgid "Max items"
+msgstr "Μέγιστος αριθμός στοιχείων"
+
+#: ../includes/setup.php:91, ../includes/shortcode.php:93
+msgid "Height"
+msgstr "Ύψος"
+
+#: ../includes/setup.php:92, ../includes/shortcode.php:94
+msgid "Spacing"
+msgstr "Απόσταση"
+
+#: ../includes/setup.php:93, ../includes/shortcode.php:99
+msgid "Order by"
+msgstr "Ταξινόμηση κατά"
+
+#: ../includes/setup.php:94, ../includes/shortcode.php:100
+msgid "Order"
+msgstr "Ταξινόμηση"
+
+#: ../includes/setup.php:95, ../includes/shortcode.php:97
+msgid "Image size"
+msgstr "Μέγεθος εικόνας"
+
+#: ../includes/setup.php:96, ../includes/shortcode.php:98
+msgid "Link to"
+msgstr "Σύνδεσμος προς"
+
+#: ../includes/setup.php:97, ../includes/shortcode.php:101
+msgid "Include subfolder"
+msgstr "Συμπεριλάβετε υποφάκελο"
+
+#: ../includes/setup.php:98, ../includes/shortcode.php:102
+msgid "Caption"
+msgstr "Λεζάντα"
+
+#: ../includes/setup.php:99, ../includes/setup.php:100,
+#: ../includes/setup.php:101, ../includes/setup.php:102,
+#: ../includes/shortcode.php:103, ../includes/shortcode.php:104,
+#: ../includes/shortcode.php:105, ../includes/shortcode.php:106
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../includes/setup.php:100, ../includes/shortcode.php:104
+msgid "Fullscreen"
+msgstr "Πλήρης οθόνη"
+
+#: ../includes/setup.php:101, ../includes/shortcode.php:105
+msgid "Thumbnails"
+msgstr "Μικρογραφίες"
+
+#: ../includes/setup.php:102, ../includes/shortcode.php:106
+msgid "Zoom"
+msgstr "Μεγέθυνση"
+
+#: ../includes/setup.php:105
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: ../includes/setup.php:106
+msgid "Author"
+msgstr "Συντάκτης"
+
+#: ../includes/setup.php:107
+msgid "Name"
+msgstr "Όνομα"
+
+#: ../includes/setup.php:108
+msgid "Title"
+msgstr "Τίτλος"
+
+#: ../includes/setup.php:109
+msgid "Type"
+msgstr "Τύπος"
+
+#: ../includes/setup.php:110
+msgid "Modified"
+msgstr "Τροποποιήθηκε"
+
+#: ../includes/setup.php:111
+msgid "Random"
+msgstr "Τυχαία"
+
+#: ../includes/setup.php:112, ../includes/shortcode.php:141
+msgid "None"
+msgstr "Κανένας"
+
+#: ../includes/setup.php:113, ../includes/pro/filesizes.php:27
+msgid "File size"
+msgstr "Μέγεθος αρχείου"
+
+#: ../includes/setup.php:116
+msgid "Descending"
+msgstr "Φθίνουσα"
+
+#: ../includes/setup.php:117
+msgid "Ascending"
+msgstr "Αύξουσα"
+
+#: ../includes/setup.php:120
+msgid "Attachment"
+msgstr "Συνημμένο"
+
+#: ../includes/setup.php:121
+msgid "Media"
+msgstr "Πολυμέσα"
+
+#: ../includes/setup.php:148
+msgid "Optional: Assign a folder to your uploaded file(s):"
+msgstr ""
+"Προαιρετικά: Αντιστοιχίστε έναν φάκελο στο(α) αρχείο(α) που μεταφορτώσατε:"
+
+#: ../includes/shortcode.php:88
+msgid "Gallery"
+msgstr "Γκάλερι"
+
+#: ../includes/shortcode.php:89
+msgid "Display your images in a beautiful gallery."
+msgstr "Εμφανίστε τις εικόνες σας σε μια όμορφη γκάλερι."
+
+#: ../includes/shortcode.php:90
+msgid "Gallery settings"
+msgstr "Ρυθμίσεις γκαλερί"
+
+#: ../includes/shortcode.php:132
+msgid "Thumbnail"
+msgstr "Μικρογραφία"
+
+#: ../includes/shortcode.php:133
+msgid "Medium"
+msgstr "Μεσαίο"
+
+#: ../includes/shortcode.php:134
+msgid "Large"
+msgstr "Μεγάλο"
+
+#: ../includes/shortcode.php:135
+msgid "Full size"
+msgstr "Πλήρες μέγεθος"
+
+#: ../includes/shortcode.php:139
+msgid "Attachment page"
+msgstr "Σελίδα επισύναψης"
+
+#: ../includes/shortcode.php:140
+msgid "Media file"
+msgstr "Αρχείο πολυμέσων"
+
+#: ../includes/shortcode.php:330
+msgid "No folder selected."
+msgstr "Δεν έχει επιλεγεί φάκελος."
+
+#: ../includes/shortcode.php:354
+msgid "The selected folder has no items."
+msgstr "Ο επιλεγμένος φάκελος δεν έχει στοιχεία."
+
+#: ../includes/user.php:104, ../includes/user.php:131,
+#: ../includes/admin/settings.php:92
+msgid "View folders"
+msgstr "Προβολή φακέλων"
+
+#: ../includes/user.php:108, ../includes/user.php:132,
+#: ../includes/admin/settings.php:93
+msgid "Upload to folder"
+msgstr "Επεξεργασία φακέλου"
+
+#: ../includes/user.php:112, ../includes/user.php:133,
+#: ../includes/admin/settings.php:91
+msgid "Full access"
+msgstr "Πλήρης πρόσβαση"
+
+#: ../includes/user.php:116, ../includes/user.php:134,
+#: ../includes/admin/settings.php:94
+msgid "No access"
+msgstr "Καμία πρόσβαση"
+
+#: ../includes/user.php:120
+msgid "Inherit"
+msgstr "Κληρονόμησε"
+
+#: ../includes/user.php:127, ../includes/admin/settings.php:71
+msgid "Folder access"
+msgstr "Πρόσβαση σε φακέλους"
+
+#: ../includes/user.php:140, ../includes/pro/settings.php:261
+msgid "SVG support"
+msgstr "Υποστήριξη SVG"
+
+#: ../includes/user.php:144
+msgid "Enable SVG uploads, preview, and sanitization"
+msgstr "Ενεργοποίηση φόρτωσης SVG, προεπισκόπησης και εξυγίανσης"
+
+#: ../includes/admin/settings.php:6
+msgid "General"
+msgstr "Γενικά"
+
+#: ../includes/admin/settings.php:7
+msgid "Permissions"
+msgstr "Εξουσιοδοτήσεις"
+
+#: ../includes/admin/settings.php:8, ../includes/admin/settings.php:129
+msgid "Import"
+msgstr "Εισαγωγή"
+
+#: ../includes/admin/settings.php:20, ../includes/admin/settings.php:25
+msgid "Assign multiple folders"
+msgstr "Ανάθεση πολλαπλών φακέλων"
+
+#: ../includes/admin/settings.php:28
+msgid ""
+"When enabled you can assign multiple folders to one item. If disabled an "
+"item can only be assigned to one folder."
+msgstr ""
+"Όταν είναι ενεργοποιημένη, μπορείτε να αντιστοιχίσετε πολλούς φακέλους σε "
+"ένα στοιχείο. Εάν είναι απενεργοποιημένη, ένα στοιχείο μπορεί να "
+"αντιστοιχιστεί μόνο σε έναν φάκελο."
+
+#: ../includes/admin/settings.php:34, ../includes/admin/settings.php:39
+msgid "Remove from all folders"
+msgstr "Αφαίρεση από όλους τους φακέλους"
+
+#: ../includes/admin/settings.php:42
+msgid ""
+"When enabled removing an item from a folder removes it from all other "
+"folders. If disabled the item will only be removed from the open folder."
+msgstr ""
+"Όταν είναι ενεργοποιημένη η αφαίρεση ενός στοιχείου από έναν φάκελο το "
+"αφαιρεί από όλους τους άλλους φακέλους. Εάν είναι απενεργοποιημένη, το "
+"στοιχείο θα αφαιρεθεί μόνο από τον ανοιχτό φάκελο."
+
+#: ../includes/admin/settings.php:48, ../includes/admin/settings.php:53
+msgid "Infinite scrolling"
+msgstr "Άπειρη κύλιση"
+
+#: ../includes/admin/settings.php:56
+msgid ""
+"When enabled the media library uses infinite scrolling instead of the new "
+"\"Load more\" button (that was introduces in WordPress 5.8)."
+msgstr ""
+"Όταν είναι ενεργοποιημένη η βιβλιοθήκη πολυμέσων χρησιμοποιεί άπειρη κύλιση "
+"αντί για το νέο κουμπί \"Load more\" (που εισήχθη στο WordPress 5.8)."
+
+#: ../includes/admin/settings.php:72
+msgid ""
+"Set folder access level per user role. Set folder access for individual user "
+"on user profile page."
+msgstr ""
+"Ορισμός επιπέδου πρόσβασης σε φακέλους ανά ρόλο χρήστη. Ορισμός πρόσβασης σε "
+"φακέλους για μεμονωμένο χρήστη στη σελίδα προφίλ χρήστη."
+
+#: ../includes/admin/settings.php:132
+msgid "No folders found to import."
+msgstr "Δεν βρέθηκαν φάκελοι για εισαγωγή."
+
+#: ../includes/admin/settings.php:123
+msgid "%s folders with %s associated items found to import."
+msgstr "Βρέθηκαν %s φάκελοι με %s συσχετιζόμενα στοιχεία για εισαγωγή."
+
+#: ../includes/admin/settings.php:130, ../includes/admin/settings.php:145
+msgid "Delete plugin data"
+msgstr "Διαγραφή δεδομένων plugin"
+
+#: ../includes/admin/settings.php:144
+msgid "Save changes"
+msgstr "Αποθήκευση αλλαγών"
+
+#: ../includes/pro/settings.php:61
+msgid "License key deletion failed."
+msgstr "Η διαγραφή κλειδιού άδειας χρήσης απέτυχε."
+
+#: ../includes/pro/settings.php:59
+msgid "License key has been removed."
+msgstr "Το κλειδί άδειας χρήσης έχει αφαιρεθεί."
+
+#: ../includes/pro/settings.php:123
+msgid "One click updates"
+msgstr "Ενημερώσεις με ένα κλικ"
+
+#: ../includes/pro/settings.php:139
+msgid ""
+"Paste your license key from your %s in here to enable one-click plugin "
+"updates and notifications."
+msgstr ""
+"Επικολλήστε εδώ το κλειδί άδειας χρήσης από το %s για να ενεργοποιήσετε τις "
+"ενημερώσεις και τις ειδοποιήσεις του πρόσθετου με ένα κλικ."
+
+#: ../includes/pro/settings.php:139
+msgid "HappyFiles account"
+msgstr "Λογαριασμός HappyFiles"
+
+#: ../includes/pro/settings.php:135
+msgid "Deactivate license"
+msgstr "Απενεργοποίηση Άδειας Χρήσης"
+
+#: ../includes/pro/settings.php:156
+msgid "Post Types"
+msgstr "Τύποι Άρθρων"
+
+#: ../includes/pro/settings.php:166
+msgid "Plugins"
+msgstr "Πρόσθετα"
+
+#: ../includes/pro/settings.php:199, ../includes/pro/settings.php:209
+msgid "Disable in media library"
+msgstr "Απενεργοποίηση στη βιβλιοθήκη πολυμέσων"
+
+#: ../includes/pro/settings.php:222, ../includes/pro/settings.php:228
+msgid "Sort by file size"
+msgstr "Ταξινόμηση με βάση το μέγεθος του αρχείου"
+
+#: ../includes/pro/settings.php:231
+msgid "When enabled you can sort your attachments by file size."
+msgstr ""
+"Όταν είναι ενεργοποιημένη, μπορείτε να ταξινομήσετε τα συνημμένα αρχεία σας "
+"ανάλογα με το μέγεθος του αρχείου."
+
+#: ../includes/pro/settings.php:244
+msgid "Regenerate file sizes"
+msgstr "Αναδημιουργία μεγεθών αρχείων"
+
+#: ../includes/pro/settings.php:263
+msgid ""
+"Enable/disable SVG upload, preview & sanitization per user role. Set SVG "
+"support for individual user on user profile page."
+msgstr ""
+"Ενεργοποίηση/απενεργοποίηση φόρτωσης, προεπισκόπησης και εξυγίανσης SVG ανά "
+"ρόλο χρήστη. Ορισμός υποστήριξης SVG για μεμονωμένο χρήστη στη σελίδα προφίλ "
+"χρήστη."
+
+#: ../includes/pro/settings.php:264
+msgid ""
+"Upload SVG files only from trusted sources as they can contain and execute "
+"malicious XML code."
+msgstr ""
+"Ανεβάζετε αρχεία SVG μόνο από αξιόπιστες πηγές, καθώς μπορεί να περιέχουν "
+"και να εκτελούν κακόβουλο κώδικα XML."
+
+#: ../includes/pro/settings.php:283
+msgid "Disabled"
+msgstr "Απενεργοποιημένη"
+
+#: ../includes/pro/settings.php:284
+msgid "Enabled"
+msgstr "Ενεργοποιημένη"
+
+#: ../includes/pro/svg.php:137
+msgid ""
+"This file couldn't be sanitized for security reasons and wasn't uploaded."
+msgstr ""
+"Αυτό το αρχείο δεν μπορούσε να καθαριστεί για λόγους ασφαλείας και δεν "
+"μεταφορτώθηκε."

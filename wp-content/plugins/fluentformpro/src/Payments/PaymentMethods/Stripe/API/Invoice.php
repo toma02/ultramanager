@@ -1,0 +1,36 @@
+<?php
+
+namespace FluentFormPro\Payments\PaymentMethods\Stripe\API;
+
+use FluentFormPro\Payments\PaymentMethods\Stripe\StripeSettings;
+
+if (!defined('ABSPATH')) {
+	exit;
+}
+
+class Invoice
+{
+	use RequestProcessor;
+
+	public static function createItem($item, $formId)
+	{
+		$secretKey = apply_filters('fluentform-payment_stripe_secret_key', StripeSettings::getSecretKey($formId), $formId);
+
+		ApiRequest::set_secret_key($secretKey);
+
+		$response = ApiRequest::request($item, 'invoiceitems', 'POST');
+
+		return static::processResponse($response);
+	}
+
+	public static function retrieve($invoiceId, $formId, $args = [])
+	{
+		$secretKey = apply_filters('fluentform-payment_stripe_secret_key', StripeSettings::getSecretKey($formId), $formId);
+
+		ApiRequest::set_secret_key($secretKey);
+
+		$response = ApiRequest::request($args, 'invoices/' . $invoiceId, 'POST');
+
+		return static::processResponse($response);
+	}
+}
